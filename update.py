@@ -2,7 +2,7 @@
 """Daily refresh: merges funding news (RSS) + SEC Form D filings into data.json. Stdlib only."""
 import json, re, time, datetime as dt, urllib.request, xml.etree.ElementTree as ET
 from html import unescape
-UA = {"User-Agent": "FundedStartupsTracker you@example.com"}  # SEC requires a real contact: EDIT THIS
+UA = {"User-Agent": "FundedStartupsTracker jordan@tryhaventax.com"}  # SEC requires a real contact: EDIT THIS
 KEEP_DAYS = 180
 FEEDS = [
  "https://techcrunch.com/category/venture/feed/",
