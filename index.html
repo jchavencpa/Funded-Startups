@@ -29,7 +29,7 @@ dialog label{display:block;margin:8px 0 2px;font-size:13px;color:var(--mut)}dial
 <div class="bar">
 <input type="search" id="q" placeholder="Search company, investor, sector, founder…">
 <select id="rd"><option value="">All rounds</option><option>Seed</option><option>Series A</option><option>Series B</option><option>Series C+</option></select>
-<select id="so"><option value="d">Newest first</option><option value="a">Largest amount</option><option value="n">Name A–Z</option></select>
+<input type="number" id="mx" value="10" min="0" step="any" title="Max raise ($M)" style="width:110px" placeholder="Max $M"><select id="so"><option value="d">Newest first</option><option value="a">Largest amount</option><option value="n">Name A–Z</option></select>
 <button class="p" id="add">+ Add</button><button id="csv">Export CSV</button><button id="th">Theme</button>
 </div>
 <div class="w"><table><thead><tr><th>Company</th><th>Round</th><th>Amount</th><th>Date</th><th>Investors</th><th>Founders</th><th>Links</th></tr></thead><tbody id="b"></tbody></table></div>
@@ -48,14 +48,14 @@ const $=id=>document.getElementById(id);
 const fm=a=>a==null?"Undisclosed":a>=1000?"$"+(a/1000).toFixed(2).replace(/\.?0+$/,"")+"B":"$"+a+"M";
 const e=s=>String(s||"").replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
 const safe=u=>/^https?:\/\//i.test(u||"")?u:"";
-function rows(){const q=$("q").value.toLowerCase(),r=$("rd").value,s=$("so").value;
-let x=D.filter(c=>(!r||c.round==r)&&(!q||[c.name,c.inv,c.fnd,c.sec].join(" ").toLowerCase().includes(q)));
+function rows(){const q=$("q").value.toLowerCase(),r=$("rd").value,s=$("so").value,mx=+$("mx").value;
+let x=D.filter(c=>(!r||c.round==r)&&(!mx||c.amt==null||c.amt<=mx)&&(!q||[c.name,c.inv,c.fnd,c.sec].join(" ").toLowerCase().includes(q)));
 x.sort((a,b)=>s=="a"?(b.amt||0)-(a.amt||0):s=="n"?a.name.localeCompare(b.name):b.date.localeCompare(a.date));return x}
 function draw(){const x=rows();$("n").textContent=x.length;$("t").textContent=fm(x.reduce((s,c)=>s+(c.amt||0),0));
 $("b").innerHTML=x.map(c=>{const w=safe(c.web)||"https://www.google.com/search?q="+encodeURIComponent(c.name+" startup official site");
 const l=safe(c.li)||"https://www.linkedin.com/search/results/companies/?keywords="+encodeURIComponent(c.name);
-return `<tr><td><b>${e(c.name)}</b><div class="m">${e(c.sec)}</div></td><td><span class="r">${e(c.round)}</span></td><td>${fm(c.amt)}</td><td>${e(c.date)}</td><td>${e(c.inv)||'<span class="m">—</span>'}</td><td>${e(c.fnd)||'<span class="m">—</span>'}</td><td><a href="${e(w)}" target="_blank" rel="noopener">Website</a> · <a href="${e(l)}" target="_blank" rel="noopener">LinkedIn</a></td></tr>`}).join("")}
-["q","rd","so"].forEach(i=>$(i).addEventListener("input",draw));
+return `<tr><td><b>${e(c.name)}</b><div class="m">${e(c.hq||c.sec)}</div></td><td><span class="r">${e(c.round)}</span></td><td>${fm(c.amt)}</td><td>${e(c.date)}</td><td>${e(c.inv)||'<span class="m">—</span>'}</td><td>${e(c.fnd)||'<span class="m">—</span>'}</td><td><a href="${e(w)}" target="_blank" rel="noopener">Website</a> · <a href="${e(l)}" target="_blank" rel="noopener">LinkedIn</a></td></tr>`}).join("")}
+$("rd").value="Seed";["q","rd","so","mx"].forEach(i=>$(i).addEventListener("input",draw));
 $("add").onclick=()=>$("dg").showModal();
 $("f").addEventListener("submit",ev=>{if(ev.submitter.value!="ok")return;const f=new FormData($("f"));
 const nc={name:f.get("name"),round:f.get("round"),amt:f.get("amt")?+f.get("amt"):null,date:f.get("date"),inv:f.get("inv"),fnd:f.get("fnd"),sec:f.get("sec"),web:f.get("web"),li:f.get("li")};D.unshift(nc);try{X.unshift(nc);localStorage.setItem("fs",JSON.stringify(X))}catch(_){}
