@@ -5,10 +5,11 @@ on:
 permissions: {contents: write}
 jobs:
   refresh:
+    timeout-minutes: 120
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
       - run: python update.py
       - run: |
           git config user.name bot && git config user.email bot@users.noreply.github.com
-          git add data.json && (git diff --cached --quiet || git commit -m "daily refresh $(date -u +%F)") && git push
+          git add data.json seen.json && (git diff --cached --quiet || git commit -m "daily refresh $(date -u +%F)") && git push
