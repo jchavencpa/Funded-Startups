@@ -70,6 +70,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "400 N Progress Rd Llc",
+  "round": "Seed",
+  "amt": 0.61,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Nicholas Keys",
+  "sec": "Commercial",
+  "hq": "St Francis, WI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158044/000215804426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Bueno Ltd.",
   "round": "Seed",
   "amt": 2.4,
@@ -137,6 +151,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1941802/000194180226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gaingels Weave Llc",
+  "round": "Seed",
+  "amt": 0.3,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2154900/000215490026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "My Home Story Inc.",
+  "round": "Seed",
+  "amt": 0.67,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Eric Wirks",
+  "sec": "Other Technology",
+  "hq": "Marietta, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159566/000215956626000001/",
   "via": "SEC Form D"
  },
  {
@@ -221,6 +263,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2158073/000215807326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Columbia Investors H Llc",
+  "round": "Seed",
+  "amt": 1.6,
+  "date": "2026-09-29",
+  "inv": "",
+  "fnd": "Leonardo Young, Chaits Jalagam",
+  "sec": "Residential",
+  "hq": "Sheridan, WY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2152837/000215283726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tt Dallas Dst",
+  "round": "Seed",
+  "amt": 5.65,
+  "date": "2026-09-29",
+  "inv": "",
+  "fnd": "Duane Lund, - Exchange Realty, Inc.",
+  "sec": "Commercial",
+  "hq": "Bloomington, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160178/000216017826000001/",
   "via": "SEC Form D"
  },
  {
@@ -742,6 +812,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Less Noise More Signal Inc.",
+  "round": "Seed",
+  "amt": 1.73,
+  "date": "2026-09-22",
+  "inv": "",
+  "fnd": "Foster Wright, Kevin Kelly, Michael Casey",
+  "sec": "Other",
+  "hq": "Millburn, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158668/000215866826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Cone Technologies, Inc.",
   "round": "Seed",
   "amt": 0.97,
@@ -1022,6 +1106,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Circularity Fuels, Inc.",
+  "round": "Seed",
+  "amt": 8.79,
+  "date": "2026-09-01",
+  "inv": "",
+  "fnd": "Stephen Beaton, Zachary Bogue, Fergus Noble",
+  "sec": "Other Energy",
+  "hq": "Redwood City, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2147938/000214793826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Artbnk Inc.",
   "round": "Seed",
   "amt": 0.88,
@@ -1047,6 +1145,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2121761/000212176126000006/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Alaro Spec 1 Llc",
+  "round": "Seed",
+  "amt": 1.38,
+  "date": "2026-08-24",
+  "inv": "",
+  "fnd": "Benjamin Maxwell, Austin Schmidt",
+  "sec": "Residential",
+  "hq": "Golden, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2133508/000213350826000001/",
   "via": "SEC Form D"
  },
  {
