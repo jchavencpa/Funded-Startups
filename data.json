@@ -1,5 +1,47 @@
 [
  {
+  "name": "Cotton Lane Industrial, Llc",
+  "round": "Seed",
+  "amt": 1.12,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "Jordan Linkow",
+  "sec": "Commercial",
+  "hq": "Goodyear, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158677/000215867726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Opsmate Ai, Inc.",
+  "round": "Seed",
+  "amt": 3.38,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "Howard Heppelmann, Jianjie Zhang, Tao Xu, Ting Liu, Anton Simunovic",
+  "sec": "Other Technology",
+  "hq": "Westwood, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2071232/000207123226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Unseen Reality Inc.",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "Haojiang Zhou",
+  "sec": "Other Technology",
+  "hq": "Mountain View, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2157214/000121390026109668/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Axelyf, Inc.",
   "round": "Seed",
   "amt": 2.63,
@@ -25,6 +67,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1958777/000149315226046663/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sapphire Technologies, Inc.",
+  "round": "Seed",
+  "amt": 8.94,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Freddie Sarhan, Vatche Artinian, Jens Mathiesen, Peter Cooper, Victor Pascucci III",
+  "sec": "Other Energy",
+  "hq": "Cypress, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/",
   "via": "SEC Form D"
  },
  {
@@ -56,6 +112,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Ensho Therapeutics, Inc.",
+  "round": "Seed",
+  "amt": 7.28,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Danielle Fry, Arash Rassoulpour, Carlos Solorzano, Eric Pham, Gerhard Hagn, Neena Bitritto-Garg, Tariq Kassum",
+  "sec": "Biotechnology",
+  "hq": "Woodcliff Lake, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2032849/000203284926000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Darklight Collection Llc",
   "round": "Seed",
   "amt": 1.0,
@@ -81,6 +151,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2158044/000215804426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Bungalows At Maple Woods Llc",
+  "round": "Seed",
+  "amt": 1.29,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "an Arizona limited liability company Bungalows at Maple Woods Management LLC, David Cavan, Norm Miller, Gary Burton, Paul Kingsley, Thomas P",
+  "sec": "Commercial",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160375/000216037526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Spatial Logic, Inc.",
+  "round": "Seed",
+  "amt": 3.58,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Jeff Rose, Jon Rose, Kevin O'Neil",
+  "sec": "Other Technology",
+  "hq": "Boulder, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158653/000215865326000001/",
   "via": "SEC Form D"
  },
  {
@@ -179,6 +277,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159566/000215956626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Eternal Life Energy Inc.",
+  "round": "Seed",
+  "amt": 1.65,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Casey Allred, Don Clark, Chance Murray",
+  "sec": "Other Technology",
+  "hq": "Bellingham, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160232/000216023226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Exotics Network, Inc.",
+  "round": "Seed",
+  "amt": 1.5,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Adal Ordonez, Anand Wadhwa, Christian Larsen, Robert Epstein",
+  "sec": "Other",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160369/000216036926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Exploration Technologies, Inc./De",
+  "round": "Seed",
+  "amt": 8.3,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Alexander Miltenberger, Tyler Hall, Zach Fredericks, Rohit Sharma",
+  "sec": "Other Technology",
+  "hq": "San Diego, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2061566/000206156626000001/",
   "via": "SEC Form D"
  },
  {
@@ -868,6 +1008,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Bvd Rim Tic Llc",
+  "round": "Seed",
+  "amt": 1.5,
+  "date": "2026-09-21",
+  "inv": "",
+  "fnd": "JEFFREY ROSENBERG, N/A BIG V EQUITY LLC",
+  "sec": "Commercial",
+  "hq": "Florida, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159115/000215911526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hillsboro Shoppes Investor Llc",
   "round": "Seed",
   "amt": 5.22,
@@ -1162,6 +1316,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Microcapital, Inc.",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-08-13",
+  "inv": "",
+  "fnd": "Jonathan Shaffer, Alexander Scaramucci, Alexander Klokus, Mattew Cooper, Franklin Bi, Ari Rubenstein",
+  "sec": "Other Technology",
+  "hq": "East Hampton, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2044152/000204415226000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Tm Holding Companies, Inc.",
   "round": "Seed",
   "amt": 3.7,
@@ -1302,6 +1470,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Tmgoc Rivercenter Investor Llc",
+  "round": "Seed",
+  "amt": 2.98,
+  "date": "2026-05-29",
+  "inv": "",
+  "fnd": "N/A Montford Group LLC, Glenn Alba, Pragnesh Patel",
+  "sec": "Commercial",
+  "hq": "Boca Raton, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2155796/000215579626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Starlifter, Inc.",
   "round": "Seed",
   "amt": 4.0,
@@ -1397,6 +1579,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2155006/000215500626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Lightning Society Llc",
+  "round": "Seed",
+  "amt": 0.32,
+  "date": "2025-12-02",
+  "inv": "",
+  "fnd": "Timothy Phillips",
+  "sec": "Other",
+  "hq": "Brooklyn, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2041354/000121390026109717/",
   "via": "SEC Form D"
  },
  {
