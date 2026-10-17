@@ -1,5 +1,19 @@
 [
  {
+  "name": "Strikearc Labs Inc.",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-12",
+  "inv": "",
+  "fnd": "Ethan Linkner",
+  "sec": "Other",
+  "hq": "Birmingham, MI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160355/000216035526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Cotton Lane Industrial, Llc",
   "round": "Seed",
   "amt": 1.12,
@@ -98,6 +112,62 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Bidwell Chico Avenue Portfolio Llc",
+  "round": "Seed",
+  "amt": 0.55,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Adam Penn",
+  "sec": "Residential",
+  "hq": "Sacramento, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2157840/000215784026000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Knowable Labs, Inc.",
+  "round": "Seed",
+  "amt": 0.31,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Yew Jin Lim, Gautham Srinivas Kumar",
+  "sec": "Other Technology",
+  "hq": "Saratoga, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160569/000216056926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Phoros Nh3 Llc",
+  "round": "Seed",
+  "amt": 7.9,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Matthew Gottesdiener, Rebecca Krumholz",
+  "sec": "Residential",
+  "hq": "Brookline, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159059/000215905926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sc River Inv Llc",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-10-04",
+  "inv": "",
+  "fnd": "Jonathan Kracer",
+  "sec": "Other",
+  "hq": "Miami, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159841/000215984126000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Nbp Tower Llc",
   "round": "Seed",
   "amt": 1.5,
@@ -123,6 +193,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2032849/000203284926000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "1921 Technologies Inc.",
+  "round": "Seed",
+  "amt": 3.0,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Luke Charest, Felix Levine, Christopher Chu",
+  "sec": "Other Technology",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159256/000215925626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Cph Rentals Ii, Llc",
+  "round": "Seed",
+  "amt": 1.09,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Paras Shah, Jacob Bond, Jonathan Bond",
+  "sec": "Residential",
+  "hq": "Vancouver, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160443/000216044326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Orions Landing Ak Llc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Myles Spetsios, Travis Dopp",
+  "sec": "Residential",
+  "hq": "Anchorage, AK",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160415/000216041526000001/",
   "via": "SEC Form D"
  },
  {
@@ -179,6 +291,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2158653/000215865326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Accountally Llc",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Josh Royal",
+  "sec": "Other",
+  "hq": "Charleston, SC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156607/000215660726000001/",
   "via": "SEC Form D"
  },
  {
@@ -840,6 +966,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Zeely, Inc.",
+  "round": "Seed",
+  "amt": 2.09,
+  "date": "2026-09-23",
+  "inv": "",
+  "fnd": "Dmytro Samoiliuk, Yaroslav Samoiliuk",
+  "sec": "Other Technology",
+  "hq": "Wilmington, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2155182/000215518226000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Gp Defense Investments, Llc",
   "round": "Seed",
   "amt": 5.89,
@@ -963,6 +1103,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2158668/000215866826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Cornwallis Durham, L.L.C.",
+  "round": "Seed",
+  "amt": 0.78,
+  "date": "2026-09-22",
+  "inv": "",
+  "fnd": "Grant Knier, - Cornwallis GP, L.L.C., - Renaissance Commerical LLC, - HHC Storage, L.L.C.",
+  "sec": "Other",
+  "hq": "Cary, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159347/000215934726000001/",
   "via": "SEC Form D"
  },
  {
@@ -1117,6 +1271,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157791/000215779126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Vass Acres Mhc Investors Llc",
+  "round": "Seed",
+  "amt": 0.94,
+  "date": "2026-09-17",
+  "inv": "",
+  "fnd": "Joel Kelman",
+  "sec": "Residential",
+  "hq": "Spring, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158388/000215838826000001/",
   "via": "SEC Form D"
  },
  {
