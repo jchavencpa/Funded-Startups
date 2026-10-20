@@ -1,5 +1,19 @@
 [
  {
+  "name": "Myvillage, Inc.",
+  "round": "Seed",
+  "amt": 7.6,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Brandon Terry, Allan Smith, Kesar Varma",
+  "sec": "Other Technology",
+  "hq": "Culver City, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2047100/000204710026000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Strikearc Labs Inc.",
   "round": "Seed",
   "amt": 0.5,
@@ -11,6 +25,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160355/000216035526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Wood Road Hospitality Group, Llc",
+  "round": "Seed",
+  "amt": 1.52,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Mitchell Lowe, Jesse Lowe",
+  "sec": "Restaurants",
+  "hq": "San Diego, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2157061/000215706126000001/",
   "via": "SEC Form D"
  },
  {
@@ -95,6 +123,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ladderup Housing Inc.",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-10-06",
+  "inv": "",
+  "fnd": "Thomas Voutsos, Gregory Voutsos, Douglas Bowen, John Vougiouklakis",
+  "sec": "Other",
+  "hq": "Toledo, OH",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2077927/000110465926116908/",
   "via": "SEC Form D"
  },
  {
@@ -238,6 +280,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Elementium Materials, Inc.",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Matthew Dawson, Mick Sawka, Gerald Chan, Jin Dawson",
+  "sec": "Other Technology",
+  "hq": "Katy, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2032249/000203224926000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Darklight Collection Llc",
   "round": "Seed",
   "amt": 1.0,
@@ -305,6 +361,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2156607/000215660726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Md Annapolis 2661 Riva Rd 1000, Llc",
+  "round": "Seed",
+  "amt": 1.57,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Andrew Hill",
+  "sec": "Commercial",
+  "hq": "Annapolis, MD",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160149/000216014926000001/",
   "via": "SEC Form D"
  },
  {
@@ -560,6 +630,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Theravie Pharma, Inc.",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-09-29",
+  "inv": "",
+  "fnd": "Samia Almoughrabie, Richard Gallo",
+  "sec": "Biotechnology",
+  "hq": "San Diego, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160768/000216076826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Atjustice, Pbc",
   "round": "Seed",
   "amt": 0.36,
@@ -781,6 +865,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2155792/000104303926000042/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Satlyt Inc.",
+  "round": "Seed",
+  "amt": 7.79,
+  "date": "2026-09-25",
+  "inv": "",
+  "fnd": "Rama Afullo, Kent Lucas",
+  "sec": "Other Technology",
+  "hq": "Sunnyvale, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160771/000216077126000001/",
   "via": "SEC Form D"
  },
  {
@@ -1456,6 +1554,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Monetization Solutions, Inc.",
+  "round": "Seed",
+  "amt": 0.88,
+  "date": "2026-08-31",
+  "inv": "",
+  "fnd": "Andris Merkulovs, Martins Bratuskins, Andris Berzins",
+  "sec": "Other",
+  "hq": "Atlanta, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1972722/000197272226000005/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "American Metal Inc",
   "round": "Seed",
   "amt": 1.6,
@@ -1509,6 +1621,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2076174/000121465926012691/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Soedge University Llc",
+  "round": "Seed",
+  "amt": 1.2,
+  "date": "2026-08-07",
+  "inv": "",
+  "fnd": "Antonio Raimondo, Crista Raimondo",
+  "sec": "Residential",
+  "hq": "Jacksonville, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159849/000215984926000001/",
   "via": "SEC Form D"
  },
  {
@@ -1680,6 +1806,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Youtopia Marketplace, Llc",
+  "round": "Seed",
+  "amt": 4.41,
+  "date": "2026-04-09",
+  "inv": "",
+  "fnd": "Kenneth Neumann",
+  "sec": "Other",
+  "hq": "Lakewood, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1955989/000195598926000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Gallery Haus Investors, Llc",
   "round": "Seed",
   "amt": 0.5,
@@ -1719,6 +1859,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2155774/000215577426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Mikri Inc.",
+  "round": "Seed",
+  "amt": 1.35,
+  "date": "2026-02-09",
+  "inv": "",
+  "fnd": "SHUKI HARRIS, ZIYUN YANG, LONG LE, FAISAL MAHMOOD",
+  "sec": "Other Health Care",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2115414/000211541426000002/",
   "via": "SEC Form D"
  },
  {
