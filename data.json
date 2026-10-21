@@ -1,5 +1,19 @@
 [
  {
+  "name": "50 E Locust St Investors, Llc",
+  "round": "Seed",
+  "amt": 2.6,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "James Perdomo",
+  "sec": "Commercial",
+  "hq": "Allentown, PA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2154979/000215497926000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Myvillage, Inc.",
   "round": "Seed",
   "amt": 7.6,
@@ -25,6 +39,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160355/000216035526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Lxre Inc.",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-10-12",
+  "inv": "",
+  "fnd": "Edo Zucker, John Sable",
+  "sec": "Other Technology",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159433/000215943326000001/",
   "via": "SEC Form D"
  },
  {
@@ -140,6 +168,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Avistone Ren Tech S, Llc",
+  "round": "Seed",
+  "amt": 5.83,
+  "date": "2026-10-06",
+  "inv": "",
+  "fnd": "Daniel Culler, Matthias Baumueller",
+  "sec": "Commercial",
+  "hq": "Englewood, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160886/000216088626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Avistone Ren Tech, Llc",
+  "round": "Seed",
+  "amt": 3.95,
+  "date": "2026-10-06",
+  "inv": "",
+  "fnd": "Daniel Culler, Matthias Baumueller",
+  "sec": "Commercial",
+  "hq": "Englewood, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160887/000216088726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Sky City Data, Inc.",
   "round": "Seed",
   "amt": 0.75,
@@ -193,6 +249,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159059/000215905926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sunmoon Maui Citruscello Llc",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Adam Mehr",
+  "sec": "Other",
+  "hq": "Kihei, HI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160630/000216063026000001/",
   "via": "SEC Form D"
  },
  {
@@ -994,6 +1064,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Westgreen Investor Llc",
+  "round": "Seed",
+  "amt": 1.32,
+  "date": "2026-09-24",
+  "inv": "",
+  "fnd": "Brian Duggan, Alex Samoylovich, - Tasis Holdings, LLC",
+  "sec": "Commercial",
+  "hq": "Delray Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160582/000216058226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Negosh, Inc.",
   "round": "Seed",
   "amt": 3.09,
@@ -1481,6 +1565,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157502/000215750226000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Epic Frisco, Llc",
+  "round": "Seed",
+  "amt": 6.67,
+  "date": "2026-09-09",
+  "inv": "",
+  "fnd": "LLC Epic Frisco GP",
+  "sec": "Commercial",
+  "hq": "Suwanee, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156109/000215610926000001/",
   "via": "SEC Form D"
  },
  {
