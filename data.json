@@ -14,6 +14,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Northern Peak S11 Llc",
+  "round": "Seed",
+  "amt": 0.3,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Aaron Glasser, Joseph Glowacki, Dixon Bradbury, Joel Lowery",
+  "sec": "Other",
+  "hq": "Mooresville, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161250/000216125026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Myvillage, Inc.",
   "round": "Seed",
   "amt": 7.6,
@@ -25,6 +39,76 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2047100/000204710026000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Canton Ohio Storage Investors, Llc",
+  "round": "Seed",
+  "amt": 2.85,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Kevin Snodgrass, Steve Wylie",
+  "sec": "Commercial",
+  "hq": "Houston, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161310/000216131026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ga & Al Properties, Llc",
+  "round": "Seed",
+  "amt": 0.26,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Maria Alonso Diaz",
+  "sec": "Construction",
+  "hq": "Cleveland, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2147410/000214741026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Conexeu Sciences Inc.",
+  "round": "Seed",
+  "amt": 1.5,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "DAVID BOGART, MILES HARRISON, AARON FARBERG, STEPHEN INOUYE, CLAUDIA CHAVEZ-MUNOZ, JEFF SHARPE, Z LORENC, SEBASTIAN PURCELL, BRIAN PILCHER, ",
+  "sec": "Biotechnology",
+  "hq": "Reno, NV",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2066836/000206075526000061/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Fresenius Medical Care Fulshear, Llc",
+  "round": "Seed",
+  "amt": 4.38,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "Erik Lyesiuk, Aaron Almquist, Ludwig Teugels, Josie Zapalac, Anil Chunduri, M.D.",
+  "sec": "Other Health Care",
+  "hq": "Waltham, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160836/000216083626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Kappa Pay Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "Blaise Buma, Andreas Fragner, Mick Sawka",
+  "sec": "Other Technology",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1882821/000188282126000001/",
   "via": "SEC Form D"
  },
  {
@@ -70,6 +154,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Kite Topco Inc.",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Homayoun Hatami, Faeth Birch, Alexander Geiser, Mark Harris, Winnie Lerner, Brigitte von Haacke, Simon Bouchard, Philipp Freise, Ken Mehlman",
+  "sec": "Other",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1894552/000189455226000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Cotton Lane Industrial, Llc",
   "round": "Seed",
   "amt": 1.12,
@@ -112,6 +210,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Gaingels Tesoro 2026 Llc",
+  "round": "Seed",
+  "amt": 0.38,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156176/000215617626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Axelyf, Inc.",
   "round": "Seed",
   "amt": 2.63,
@@ -151,6 +263,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1887783/000188778326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "806 Manhattan Investors Llc",
+  "round": "Seed",
+  "amt": 3.2,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Roger Douglas, Lionel Uhry, Sarah Chionis, Alan Mackenzie",
+  "sec": "Residential",
+  "hq": "El Segundo, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156078/000215607826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sago Houston Industrial I, Llc",
+  "round": "Seed",
+  "amt": 8.07,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Daniel Moore",
+  "sec": "Commercial",
+  "hq": "College Station, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159458/000215945826000001/",
   "via": "SEC Form D"
  },
  {
@@ -263,6 +403,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160630/000216063026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Propel Aero, Inc.",
+  "round": "Seed",
+  "amt": 4.93,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Venkatasubramanian Viswanathan, Yet-Ming Chiang, Dipender Saluja, Sunil Dhaliwal, Dylan Reid, Andrew Hedin",
+  "sec": "Other Technology",
+  "hq": "Sunnyvale, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160911/000216091126000002/",
   "via": "SEC Form D"
  },
  {
@@ -1526,6 +1680,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Rosella Boston Llc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-09-14",
+  "inv": "",
+  "fnd": "N/A RHMG LLC, N/A The Bowler Company, Inc., Stephen Bowler",
+  "sec": "Restaurants",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161198/000119248226000461/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Copperpilot, Inc.",
   "round": "Seed",
   "amt": 0.3,
@@ -1579,6 +1747,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2156109/000215610926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ritually, Inc.",
+  "round": "Seed",
+  "amt": 1.25,
+  "date": "2026-09-09",
+  "inv": "",
+  "fnd": "Ari Winkleman, Chris Finnin",
+  "sec": "Other Technology",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158085/000215808526000001/",
   "via": "SEC Form D"
  },
  {
@@ -1705,6 +1887,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2044152/000204415226000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Omnibuds, Inc.",
+  "round": "Seed",
+  "amt": 3.0,
+  "date": "2026-08-11",
+  "inv": "",
+  "fnd": "Benedict Carter, Joseph Caradonna, Jeffrey Karras, James Hayward, Chris Jones, Fahim Kawsaar, James Stefansic",
+  "sec": "Other Health Care",
+  "hq": "Nashville, TN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158873/000215887326000002/",
   "via": "SEC Form D"
  },
  {
@@ -1985,6 +2181,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157297/000215729726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Crazylive, Inc.",
+  "round": "Seed",
+  "amt": 2.5,
+  "date": "2025-12-15",
+  "inv": "",
+  "fnd": "Wei Wang",
+  "sec": "Other",
+  "hq": "Arcadia, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159226/000168316826008008/",
   "via": "SEC Form D"
  },
  {
