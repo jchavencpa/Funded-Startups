@@ -112,6 +112,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Kanupi Inc.",
+  "round": "Seed",
+  "amt": 0.45,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Shane Vorderstrasse, Amanda Vorderstrasse, Matthew Newell",
+  "sec": "Other Technology",
+  "hq": "Lebanon, OR",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161747/000216174726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Strikearc Labs Inc.",
   "round": "Seed",
   "amt": 0.5,
@@ -291,6 +305,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159458/000215945826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Campian Inc.",
+  "round": "Seed",
+  "amt": 2.1,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Simon Perry, Jonathan Perl, Alex Mitchell",
+  "sec": "Other Technology",
+  "hq": "Mount Pleasant, SC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161552/000216155226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Spartanx Technologies, Inc.",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Erik Hardy, Anton Simunovic, Diego Spahn",
+  "sec": "Other Technology",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161171/000216117126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Supernova Industries Corp.",
+  "round": "Seed",
+  "amt": 8.3,
+  "date": "2026-10-07",
+  "inv": "",
+  "fnd": "Roger Francisco, Marta Martinez, John Burer",
+  "sec": "Other Technology",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2006988/000200698826000006/",
   "via": "SEC Form D"
  },
  {
@@ -599,6 +655,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160149/000216014926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Idox.Ai Corp.",
+  "round": "Seed",
+  "amt": 0.85,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Chi-Ching Wei, Jinlin Wang, Bruce Huang",
+  "sec": "Other Technology",
+  "hq": "Fremont, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2049664/000204966426000003/",
   "via": "SEC Form D"
  },
  {
@@ -1873,6 +1943,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2133508/000213350826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Pccd Investment, Llc",
+  "round": "Seed",
+  "amt": 5.25,
+  "date": "2026-08-17",
+  "inv": "",
+  "fnd": "Sequoya Borgman, Brent Adam, Matt Kreutz",
+  "sec": "Other",
+  "hq": "Milwaukee, WI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161567/000216156726000001/",
   "via": "SEC Form D"
  },
  {
