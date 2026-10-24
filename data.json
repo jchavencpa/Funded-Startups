@@ -1,5 +1,19 @@
 [
  {
+  "name": "Rich Rising Group, Inc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "MARIE LEMELLE",
+  "sec": "Other Technology",
+  "hq": "Beverly Hills, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2128839/000212883926000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "50 E Locust St Investors, Llc",
   "round": "Seed",
   "amt": 2.6,
@@ -70,6 +84,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Mcre Development, Llc",
+  "round": "Seed",
+  "amt": 2.5,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "David Phipps",
+  "sec": "Residential",
+  "hq": "Salt Lake City, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160408/000216040826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Conexeu Sciences Inc.",
   "round": "Seed",
   "amt": 1.5,
@@ -126,6 +154,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Belenus Power Group, Inc.",
+  "round": "Seed",
+  "amt": 2.69,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Jack Bennett, Stephen Lynch",
+  "sec": "Other Energy",
+  "hq": "Phoenix, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2040665/000204066526000004/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Strikearc Labs Inc.",
   "round": "Seed",
   "amt": 0.5,
@@ -154,6 +196,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Velera Energy Llc",
+  "round": "Seed",
+  "amt": 0.55,
+  "date": "2026-10-12",
+  "inv": "",
+  "fnd": "Brandy Bouchy, Brett Boucy, Robert Angell, Zachary Bloom",
+  "sec": "Other Energy",
+  "hq": "Temecula, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160957/000216095726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Wood Road Hospitality Group, Llc",
   "round": "Seed",
   "amt": 1.52,
@@ -179,6 +235,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1894552/000189455226000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Navispend, Inc.",
+  "round": "Seed",
+  "amt": 5.31,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Christopher Gormley, William Moschella, David Tamburri, Tal Zaks",
+  "sec": "Other Technology",
+  "hq": "Avon, CT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161767/000216176726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Raz Enterprises Inc.",
+  "round": "Seed",
+  "amt": 2.69,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Robert Zangardi, Roshanna Sabaratnam, Lilac Maddock",
+  "sec": "Retailing",
+  "hq": "Los Angeles, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159569/000215956926000002/",
   "via": "SEC Form D"
  },
  {
@@ -235,6 +319,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2156176/000215617626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Opus Databento Cs Llc",
+  "round": "Seed",
+  "amt": 4.0,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "David Dlugolenski",
+  "sec": "Other Technology",
+  "hq": "Atlanta, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161960/000216196026000001/",
   "via": "SEC Form D"
  },
  {
@@ -1022,6 +1120,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Cardinal Tacos Llc",
+  "round": "Seed",
+  "amt": 8.0,
+  "date": "2026-09-28",
+  "inv": "",
+  "fnd": "Cardinal Equity Partners LLC Cardinal Equity Partners LLC, Robert Quinlan, Andrew Quinlan",
+  "sec": "Restaurants",
+  "hq": "Duxbury, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161846/000216184626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Middle Door Homes Llc",
   "round": "Seed",
   "amt": 0.25,
@@ -1722,6 +1834,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Prairie Peak Storage Ii Llc",
+  "round": "Seed",
+  "amt": 1.5,
+  "date": "2026-09-16",
+  "inv": "",
+  "fnd": "LLC Prairie Peak Investments, Benjamin Stempel, Andrea Roberts, Jonathon Day",
+  "sec": "Commercial",
+  "hq": "Chicago, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160626/000216062626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Mireye Inc.",
   "round": "Seed",
   "amt": 1.01,
@@ -1929,6 +2055,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2121761/000212176126000006/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ddc Gh Llc",
+  "round": "Seed",
+  "amt": 1.12,
+  "date": "2026-08-26",
+  "inv": "",
+  "fnd": "Robert Clark",
+  "sec": "Commercial",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160009/000216000926000001/",
   "via": "SEC Form D"
  },
  {
@@ -2181,6 +2321,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159984/000215998426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tab Liberty Partnership Xxi, Llc",
+  "round": "Seed",
+  "amt": 6.39,
+  "date": "2026-05-14",
+  "inv": "",
+  "fnd": "n/a Tab Capital, LLC, R. Taylor, Dean Varner",
+  "sec": "Residential",
+  "hq": "St. Paul, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161640/000143774926033395/",
   "via": "SEC Form D"
  },
  {
