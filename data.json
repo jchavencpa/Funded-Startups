@@ -14,6 +14,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Iwish Ai Inc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Chinmay Singh",
+  "sec": "Other Technology",
+  "hq": "Danville, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161279/000216127926000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "50 E Locust St Investors, Llc",
   "round": "Seed",
   "amt": 2.6,
@@ -140,6 +154,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Ready Chapter 1, Inc.",
+  "round": "Seed",
+  "amt": 0.96,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "Sarah Koehler, Stephen Baylis",
+  "sec": "Other Technology",
+  "hq": "Lakeland, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161358/000216135826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gracepay, Inc.",
+  "round": "Seed",
+  "amt": 1.2,
+  "date": "2026-10-14",
+  "inv": "",
+  "fnd": "Joseph Sweeney, Bailey Hawn",
+  "sec": "Other Technology",
+  "hq": "Des Moines, IA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2131191/000143774926033482/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Kanupi Inc.",
   "round": "Seed",
   "amt": 0.45,
@@ -207,6 +249,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160957/000216095726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Aurora At The Lake Llc",
+  "round": "Seed",
+  "amt": 0.74,
+  "date": "2026-10-11",
+  "inv": "",
+  "fnd": "Raju Balakrishnan, Shylaja Ramkumar",
+  "sec": "Commercial",
+  "hq": "Santa Clara, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162057/000216205726000001/",
   "via": "SEC Form D"
  },
  {
@@ -767,6 +823,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2049664/000204966426000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sp Cooper Investor Llc",
+  "round": "Seed",
+  "amt": 3.5,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "* SPAC VII LLC, Dorian Shapiro, Dan Byrnes, Julie Driscoll, Jason McKinley",
+  "sec": "Residential",
+  "hq": "Seattle, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160770/000216077026000001/",
   "via": "SEC Form D"
  },
  {
@@ -1894,7 +1964,7 @@
   "round": "Seed",
   "amt": 0.3,
   "date": "2026-09-11",
-  "inv": "",
+  "inv": "Neon Fund",
   "fnd": "Aditya Ganesh",
   "sec": "Other Technology",
   "hq": "Newark, DE",
@@ -2240,6 +2310,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Pence Contractors, Llc",
+  "round": "Seed",
+  "amt": 0.31,
+  "date": "2026-06-29",
+  "inv": "",
+  "fnd": "Paul Schulz, David Hays, Nathaniel Taylor",
+  "sec": "Construction",
+  "hq": "Lake Oswego, OR",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1931490/000193149026000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "American Fertilizer, Llc",
   "round": "Seed",
   "amt": 2.26,
@@ -2338,6 +2422,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Modal Motors Inc.",
+  "round": "Seed",
+  "amt": 1.71,
+  "date": "2026-04-17",
+  "inv": "",
+  "fnd": "Mark Hanchett, Kent Helfrich, Michael Van Steenburg, Fatih Arslan, Lynn Bishop",
+  "sec": "Other Technology",
+  "hq": "Farmington Hills, MI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2095109/000209510926000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Youtopia Marketplace, Llc",
   "round": "Seed",
   "amt": 4.41,
@@ -2419,6 +2517,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157297/000215729726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Iris Ai Technologies, Inc.",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2025-12-22",
+  "inv": "",
+  "fnd": "Benjamin Hills, Saxon Baum, David Gilden, Paul Weber",
+  "sec": "Other Technology",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2056666/000123191926001500/",
   "via": "SEC Form D"
  },
  {
@@ -2517,6 +2629,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1999613/000199961326000006/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ulife Brands, Inc.",
+  "round": "Seed",
+  "amt": 1.1,
+  "date": "2025-10-28",
+  "inv": "",
+  "fnd": "Brad Pyatt",
+  "sec": "Other Health Care",
+  "hq": "Carson City, NV",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160103/000121390026112367/",
   "via": "SEC Form D"
  }
 ]
