@@ -28,6 +28,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Aces Diagnostics, Inc.",
+  "round": "Seed",
+  "amt": 7.08,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Tammy Crawford, Kim Sablich, Linda Giampa, Todd Snowden, John McDonough",
+  "sec": "Other",
+  "hq": "Paradise Valley, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2039838/000203983826000005/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "50 E Locust St Investors, Llc",
   "round": "Seed",
   "amt": 2.6,
@@ -53,6 +67,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161250/000216125026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Mfp Houston 2026 Jv Llc",
+  "round": "Seed",
+  "amt": 2.32,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Peter Von Der Ahe, MFP Houston 2026 Manager LLC",
+  "sec": "Residential",
+  "hq": "Ponte Vedra Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162076/000216207626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Hirostar Usa, Inc.",
+  "round": "Seed",
+  "amt": 1.23,
+  "date": "2026-10-19",
+  "inv": "",
+  "fnd": "Lucio Mormile",
+  "sec": "Other",
+  "hq": "Bethesda, MD",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162224/000216222426000001/",
   "via": "SEC Form D"
  },
  {
@@ -207,6 +249,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2040665/000204066526000004/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Contrast Cube Inc.",
+  "round": "Seed",
+  "amt": 0.31,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Zachary Manta",
+  "sec": "Other Health Care",
+  "hq": "Lagrange, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162058/000216205826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gaingels Stronghold Ai Llc",
+  "round": "Seed",
+  "amt": 0.45,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156180/000215618026000001/",
   "via": "SEC Form D"
  },
  {
@@ -627,6 +697,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160911/000216091126000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Egd-Tradesman, Llc",
+  "round": "Seed",
+  "amt": 5.23,
+  "date": "2026-10-05",
+  "inv": "",
+  "fnd": "Gregg Gruehl, Bert Westerman, Alex Egan",
+  "sec": "Commercial",
+  "hq": "Minneapolis, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162104/000216210426000001/",
   "via": "SEC Form D"
  },
  {
@@ -1873,6 +1957,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2158388/000215838826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Prescott 1953, Llc",
+  "round": "Seed",
+  "amt": 6.3,
+  "date": "2026-09-17",
+  "inv": "",
+  "fnd": "Anthony Buono",
+  "sec": "Commercial",
+  "hq": "Prescott, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162042/000216204226000001/",
   "via": "SEC Form D"
  },
  {
