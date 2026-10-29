@@ -1,5 +1,19 @@
 [
  {
+  "name": "Agilis Medical, Inc.",
+  "round": "Seed",
+  "amt": 4.0,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Michael Collins, Benjamin Arnold, Renu Parker, Brian Bowman",
+  "sec": "Other",
+  "hq": "Cardiff, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162505/000216250526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Rich Rising Group, Inc",
   "round": "Seed",
   "amt": 1.0,
@@ -84,6 +98,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Cvat.Ai Corp",
+  "round": "Seed",
+  "amt": 2.5,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Nikita Manovich, Boris Sekachev, Gordon Caplan",
+  "sec": "Other Technology",
+  "hq": "Wilmington, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2157596/000215759626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hirostar Usa, Inc.",
   "round": "Seed",
   "amt": 1.23,
@@ -154,6 +182,48 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Clintrial Research, Inc.",
+  "round": "Seed",
+  "amt": 0.43,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Jennifer Yevoli, Subhash Gumber, Sam Searcy, Rishi Reddy, Jay Santoro, Andrew Ritts, Gautam Patel",
+  "sec": "Other Technology",
+  "hq": "Holly Springs, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2101392/000210139226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Fathom Water Corp",
+  "round": "Seed",
+  "amt": 4.3,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Nathan Haralson, Anthony Schena",
+  "sec": "Other Technology",
+  "hq": "Kirkland, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2080138/000208013826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Oiselle, Llc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Marguerite Cramer",
+  "sec": "Retailing",
+  "hq": "Seattle, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2097270/000209727026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Conexeu Sciences Inc.",
   "round": "Seed",
   "amt": 1.5,
@@ -207,6 +277,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161358/000216135826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Accufy Diagnostics, Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "Jeffrey Hung, Zhixiong Xu",
+  "sec": "Biotechnology",
+  "hq": "Rockville, MD",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2089723/000208972326000001/",
   "via": "SEC Form D"
  },
  {
@@ -277,6 +361,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2156180/000215618026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Mainland Hnr, Llc",
+  "round": "Seed",
+  "amt": 0.55,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Kenneth Larish, Donald Caire",
+  "sec": "Other",
+  "hq": "Nashville, TN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162483/000216248326000001/",
   "via": "SEC Form D"
  },
  {
@@ -389,6 +487,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159569/000215956926000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Pcfm Investments, Llc",
+  "round": "Seed",
+  "amt": 2.03,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Markie Burkeen, Emily Gupton",
+  "sec": "Hospitals and Physicians",
+  "hq": "Murray, KY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162285/000216228526000001/",
   "via": "SEC Form D"
  },
  {
@@ -2492,6 +2604,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Bina School Inc",
+  "round": "Seed",
+  "amt": 6.98,
+  "date": "2026-05-25",
+  "inv": "",
+  "fnd": "Noam Gerstein",
+  "sec": "Other",
+  "hq": "Skokie, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159551/000215955126000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Lip Flowers Retail, Llc",
   "round": "Seed",
   "amt": 1.4,
@@ -2727,20 +2853,6 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1999613/000199961326000006/",
-  "via": "SEC Form D"
- },
- {
-  "name": "Ulife Brands, Inc.",
-  "round": "Seed",
-  "amt": 1.1,
-  "date": "2025-10-28",
-  "inv": "",
-  "fnd": "Brad Pyatt",
-  "sec": "Other Health Care",
-  "hq": "Carson City, NV",
-  "web": "",
-  "li": "",
-  "src": "https://www.sec.gov/Archives/edgar/data/2160103/000121390026112367/",
   "via": "SEC Form D"
  }
 ]
