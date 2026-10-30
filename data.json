@@ -1,5 +1,47 @@
 [
  {
+  "name": "Dixon Hall Apartments Llc",
+  "round": "Seed",
+  "amt": 0.83,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Kelly Salmons",
+  "sec": "Commercial",
+  "hq": "Sheridan, WY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2155112/000215511226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Almeda Genoa Warehouse, Llc",
+  "round": "Seed",
+  "amt": 1.07,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Jacob Madorsky",
+  "sec": "Commercial",
+  "hq": "Houston, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161163/000216116326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Swep Bio, Inc.",
+  "round": "Seed",
+  "amt": 2.5,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Goran Dolsten, Karl Berglund, Lovisa Backemar",
+  "sec": "Biotechnology",
+  "hq": "Scarsdale, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159106/000215910626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agilis Medical, Inc.",
   "round": "Seed",
   "amt": 4.0,
@@ -224,6 +266,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Merion Pest Control, Inc.",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Drew Pearson, Damon Lilly, Brandon Bailey, Dane Dellenbach",
+  "sec": "Other",
+  "hq": "American Fork, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162870/000216287026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Op 2222 12Th Ave S Vcf, Llc",
+  "round": "Seed",
+  "amt": 2.61,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "N/A Oak Point Properties, LLC, James Granberry, Justin Albright, Luke Wood",
+  "sec": "Commercial",
+  "hq": "Nashville, TN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161603/000216160326000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Conexeu Sciences Inc.",
   "round": "Seed",
   "amt": 1.5,
@@ -305,6 +375,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2131191/000143774926033482/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Faex Technologies Inc.",
+  "round": "Seed",
+  "amt": 2.5,
+  "date": "2026-10-14",
+  "inv": "",
+  "fnd": "Landon Nattrass, Ryan Ninness, Justin Dearborn",
+  "sec": "Other",
+  "hq": "Lafayette, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2148280/000214828026000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Innovative Home Solutions Usa Llc",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-10-14",
+  "inv": "",
+  "fnd": "Frederick Byers",
+  "sec": "Residential",
+  "hq": "Danville, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162880/000216288026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ocp Mosaic Pref A, Llc",
+  "round": "Seed",
+  "amt": 1.6,
+  "date": "2026-10-14",
+  "inv": "",
+  "fnd": "N/A OpenCrew Partners, LLC, Timothy Ng",
+  "sec": "Telecommunications",
+  "hq": "Charlotte, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160664/000147450626000016/",
   "via": "SEC Form D"
  },
  {
@@ -1551,6 +1663,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160771/000216077126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Trailhead Apartments Project Llc",
+  "round": "Seed",
+  "amt": 1.98,
+  "date": "2026-09-25",
+  "inv": "",
+  "fnd": "Cameron Orlean, David Orlean, Michael Kucera, Harry Lee",
+  "sec": "Residential",
+  "hq": "Beachwood, OH",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160037/000216003726000001/",
   "via": "SEC Form D"
  },
  {
