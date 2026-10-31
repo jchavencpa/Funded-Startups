@@ -1,5 +1,19 @@
 [
  {
+  "name": "Avenue One Three Llc",
+  "round": "Seed",
+  "amt": 3.22,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Michael Pink, Wedgewood Capital LLLP N/A",
+  "sec": "Construction",
+  "hq": "Minneapolis, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163119/000216311926000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Dixon Hall Apartments Llc",
   "round": "Seed",
   "amt": 0.83,
@@ -70,6 +84,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Geoforge, Inc.",
+  "round": "Seed",
+  "amt": 1.55,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Richard Martin, Stephen Hohman, Chris Hibbetts",
+  "sec": "Other Technology",
+  "hq": "Brooksville, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160997/000216099726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Iwish Ai Inc",
   "round": "Seed",
   "amt": 0.5,
@@ -95,6 +123,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2039838/000203983826000005/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Zenith Gpo Inc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Eric Berry, Mario Giannini",
+  "sec": "Business Services",
+  "hq": "Radnor, PA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162669/000216266926000001/",
   "via": "SEC Form D"
  },
  {
@@ -294,6 +336,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Resolv Technology, Inc.",
+  "round": "Seed",
+  "amt": 7.17,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "David Reissfelder, Chris Alliegro, Raj Shah, Michael Ellenbogen",
+  "sec": "Other Technology",
+  "hq": "Manchester, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2082850/000208285026000007/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Rolen Development Group Inc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Maxim Sterlyagov",
+  "sec": "Residential",
+  "hq": "Pacific Palisades, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162842/000216284226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Conexeu Sciences Inc.",
   "round": "Seed",
   "amt": 1.5,
@@ -361,6 +431,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2089723/000208972326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Weg Consolidated, Llc",
+  "round": "Seed",
+  "amt": 0.68,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "M. BURNS, TODD CROCKETT, PHIL LARSON, A. THOMAS, KUNAL KAPOOR, JEFFREY DEKKO, KELLY WINDORSKI, JILL CRESS, ADAM COBOURN",
+  "sec": "Other",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1892092/000189209226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Loopworks, Llc",
+  "round": "Seed",
+  "amt": 5.5,
+  "date": "2026-10-15",
+  "inv": "",
+  "fnd": "Colan McGeehan, John Christopher, Steve Belotti",
+  "sec": "Other Technology",
+  "hq": "Delray Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162922/000216292226000001/",
   "via": "SEC Form D"
  },
  {
@@ -487,6 +585,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162483/000216248326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sharewillow Compensation Inc.",
+  "round": "Seed",
+  "amt": 4.7,
+  "date": "2026-10-13",
+  "inv": "",
+  "fnd": "Ryan Shank, Taylor Greene, Michael Dowdle",
+  "sec": "Other Technology",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1996313/000199631326000001/",
   "via": "SEC Form D"
  },
  {
@@ -683,6 +795,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161960/000216196026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Chemomouthpiece, Llc",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "David Yoskowitz, Frank Ardizzone, Jeffrey Schwab, Shlomo Lehrman",
+  "sec": "Other Health Care",
+  "hq": "Wilmington, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1977151/000197715126000003/",
   "via": "SEC Form D"
  },
  {
@@ -1288,6 +1414,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Wi Arden West Llc",
+  "round": "Seed",
+  "amt": 4.04,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Joel Worcester",
+  "sec": "Residential",
+  "hq": "Kansas City, MO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162850/000216285026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agriculture Scout Ai, Inc.",
   "round": "Seed",
   "amt": 0.42,
@@ -1803,6 +1943,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160582/000216058226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Teos Health, Llc",
+  "round": "Seed",
+  "amt": 3.11,
+  "date": "2026-09-24",
+  "inv": "",
+  "fnd": "Christopher Gallagher",
+  "sec": "Other Health Care",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162401/000216240126000001/",
   "via": "SEC Form D"
  },
  {
