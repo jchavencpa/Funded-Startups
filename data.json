@@ -56,6 +56,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Energetic Events, Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Monika kochhar, Jonathan Weiner, Lawrence Chu",
+  "sec": "Other",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163196/000216319626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Limonite Series Of Loan Llc",
+  "round": "Seed",
+  "amt": 3.35,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Johannes Gottschalk",
+  "sec": "Residential",
+  "hq": "Las Vegas, NV",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162594/000216259426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agilis Medical, Inc.",
   "round": "Seed",
   "amt": 4.0,
@@ -67,6 +95,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162505/000216250526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Good Vibes Investors Llc",
+  "round": "Seed",
+  "amt": 2.65,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Beth Bungay",
+  "sec": "Commercial",
+  "hq": "Sheridan, WY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2153242/000215324226000001/",
   "via": "SEC Form D"
  },
  {
@@ -207,6 +249,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162224/000216222426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Nwf Medical Dst",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-10-19",
+  "inv": "",
+  "fnd": "Duane Lund, - Exchange Realty, Inc.",
+  "sec": "Commercial",
+  "hq": "Bloomington, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162871/000216287126000001/",
   "via": "SEC Form D"
  },
  {
@@ -361,6 +417,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162842/000216284226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ltdr Holdco Llc",
+  "round": "Seed",
+  "amt": 5.92,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Christopher Lyons",
+  "sec": "Residential",
+  "hq": "Kernersville, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161879/000216187926000001/",
   "via": "SEC Form D"
  },
  {
@@ -1428,6 +1498,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Kpk Lth Llc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "n/a Telos North Program I Manager LLC, Richard Littlehale",
+  "sec": "Other",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162948/000216294826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agriculture Scout Ai, Inc.",
   "round": "Seed",
   "amt": 0.42,
@@ -2184,6 +2268,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Hdata, Inc.",
+  "round": "Seed",
+  "amt": 4.1,
+  "date": "2026-09-22",
+  "inv": "",
+  "fnd": "Hudson Hollister, Yuval Lubowich, Mithun Banarjee, Rajesh Choudhary, Amy Francetic, Anthony Mealey, John Fein",
+  "sec": "Other",
+  "hq": "Lockport, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1810252/000181025226000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Cone Technologies, Inc.",
   "round": "Seed",
   "amt": 0.97,
@@ -2912,6 +3010,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Miami Vice Venus Llc",
+  "round": "Seed",
+  "amt": 5.13,
+  "date": "2026-05-18",
+  "inv": "",
+  "fnd": "Alian AMR",
+  "sec": "Other",
+  "hq": "Reston, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159072/000215907226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Tab Liberty Partnership Xxi, Llc",
   "round": "Seed",
   "amt": 6.39,
@@ -2923,6 +3035,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161640/000143774926033395/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Miami Vice 29 Terrace Llc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-04-22",
+  "inv": "",
+  "fnd": "Alian Amr",
+  "sec": "Other",
+  "hq": "Reston, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159078/000215907826000001/",
   "via": "SEC Form D"
  },
  {
@@ -3021,6 +3147,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157297/000215729726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "A10 Systems Inc.",
+  "round": "Seed",
+  "amt": 4.81,
+  "date": "2026-01-14",
+  "inv": "",
+  "fnd": "Apurva Mody, Antoni Bandachowicz",
+  "sec": "Telecommunications",
+  "hq": "Lowell, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2127537/000212753726000001/",
   "via": "SEC Form D"
  },
  {
