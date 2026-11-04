@@ -28,6 +28,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "372 Lytle Llc",
+  "round": "Seed",
+  "amt": 1.68,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Lee Fensterstock, Gary Granoff",
+  "sec": "Residential",
+  "hq": "West Palm Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163309/000110465926121741/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Almeda Genoa Warehouse, Llc",
   "round": "Seed",
   "amt": 1.07,
@@ -112,6 +126,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Wicklow Entertainment Team Llc",
+  "round": "Seed",
+  "amt": 0.8,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Robert Nealon, Patrick Hallahan, Terence McAuliffe",
+  "sec": "Restaurants",
+  "hq": "Alexandria, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163310/000216331026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Rich Rising Group, Inc",
   "round": "Seed",
   "amt": 1.0,
@@ -182,6 +210,48 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Ppc Diskover Ii, Llc",
+  "round": "Seed",
+  "amt": 1.71,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Drew Carden, Jackson Fluor, Jason Kranitz",
+  "sec": "Other Technology",
+  "hq": "Houston, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159921/000215992126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Step Into Ai Inc.",
+  "round": "Seed",
+  "amt": 8.17,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Karan Mishra, Santoash Rajaram, Matthew Kinley, Austin Guyette",
+  "sec": "Other Technology",
+  "hq": "Chicago, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2078049/000207804926000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Varrd, Inc",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "August Mazza, Michael Harrington, Henry Wedbush, Rodrigo Parrode, Francis Paulino, Joseph Signorelli",
+  "sec": "Other Technology",
+  "hq": "Wheaton, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162800/000216280026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "50 E Locust St Investors, Llc",
   "round": "Seed",
   "amt": 2.6,
@@ -238,6 +308,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Gaingels Impala Llc",
+  "round": "Seed",
+  "amt": 0.27,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2155978/000215597826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hirostar Usa, Inc.",
   "round": "Seed",
   "amt": 1.23,
@@ -263,6 +347,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162871/000216287126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Frontier18 I Llc",
+  "round": "Seed",
+  "amt": 3.36,
+  "date": "2026-10-19",
+  "inv": "",
+  "fnd": "Jeffrey Frumin, Revital Reitzes",
+  "sec": "Business Services",
+  "hq": "Brookline, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163100/000109991026000294/",
   "via": "SEC Form D"
  },
  {
@@ -1229,6 +1327,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2032249/000203224926000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ch Common Ground Group Llc",
+  "round": "Seed",
+  "amt": 0.35,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "Christopher Hatfield",
+  "sec": "Other",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162100/000216210026000001/",
   "via": "SEC Form D"
  },
  {
@@ -2576,6 +2688,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "North Loop Th Owner Llc",
+  "round": "Seed",
+  "amt": 0.35,
+  "date": "2026-09-10",
+  "inv": "",
+  "fnd": "Meredith Cohen",
+  "sec": "Residential",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159962/000215996226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Little Strategy, Llc",
   "round": "Seed",
   "amt": 3.5,
@@ -2671,6 +2797,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2147938/000214793826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Artis Defense Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-09-01",
+  "inv": "",
+  "fnd": "Keith Brendley",
+  "sec": "Other Technology",
+  "hq": "Herndon, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158307/000215830726000003/",
   "via": "SEC Form D"
  },
  {
@@ -3024,6 +3164,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "T5 Smackover Production, Llc",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-05-18",
+  "inv": "",
+  "fnd": "T5 Smackover Partners, LLC, Bruce Thompson, Percy Fisher",
+  "sec": "Other Energy",
+  "hq": "Plano, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2102444/000210244426000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Tab Liberty Partnership Xxi, Llc",
   "round": "Seed",
   "amt": 6.39,
@@ -3259,20 +3413,6 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1947383/000194738326000004/",
-  "via": "SEC Form D"
- },
- {
-  "name": "Faradyne Power Systems Corp.",
-  "round": "Seed",
-  "amt": 0.43,
-  "date": "2025-11-03",
-  "inv": "",
-  "fnd": "Jose Tost, Curtis Pohl, Sam Weaver, Paul Burke, Carlos Tejera, Lloyd Nicholls",
-  "sec": "Other Technology",
-  "hq": "Miami, FL",
-  "web": "",
-  "li": "",
-  "src": "https://www.sec.gov/Archives/edgar/data/1999613/000199961326000006/",
   "via": "SEC Form D"
  }
 ]
