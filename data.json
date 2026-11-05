@@ -1,5 +1,33 @@
 [
  {
+  "name": "Panama-based Efy Finance",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-11-05",
+  "inv": "Tether",
+  "fnd": "",
+  "sec": "",
+  "hq": "",
+  "web": "",
+  "li": "",
+  "src": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPTENuX3FoSDc0YmtrdUZjVy1ya0Fvb05peUZmNFhFVm1NcUVTX24wWFhqZy1BczVycDlNY0JUcjkzdVh3bzJaY0t4azhHdW9mNUxGTHZJcENmTkEtdFRVMmpQQzJrVUtmUVQ5MHhTVTZIZW5YQzJ2bnZKbHl6T2hzWWI3bDZJam5jMzdCdEFwQ05UTndpWVMyWXcySHRNZUdJX2VvbUtBNWhJZlZWb1NCMGhPaE5ONEcyUTV4dFFFTkhzakVRNXFRUw?oc=5",
+  "via": "News"
+ },
+ {
+  "name": "Madison Sunrise, Llc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-11-04",
+  "inv": "",
+  "fnd": "Rachel Stutts",
+  "sec": "Commercial",
+  "hq": "Poway, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163705/000216370526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Avenue One Three Llc",
   "round": "Seed",
   "amt": 3.22,
@@ -95,6 +123,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162594/000216259426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Infinity Industrial Iv Investors, Llc",
+  "round": "Seed",
+  "amt": 1.46,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Ashley Aust",
+  "sec": "Commercial",
+  "hq": "West Des Moines, IA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163181/000216318126000001/",
   "via": "SEC Form D"
  },
  {
@@ -196,6 +238,48 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Eat Scoops, Inc.",
+  "round": "Seed",
+  "amt": 1.71,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Elizabeth Lane, James Weil",
+  "sec": "Other",
+  "hq": "Lafayette, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162682/000216268226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Mitoai Inc.",
+  "round": "Seed",
+  "amt": 5.45,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Bingda Li, Guanlin Li, Jeff Knox, Xinyu Wang",
+  "sec": "Other Technology",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2049511/000204951126000006/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Original Watermen, Inc.",
+  "round": "Seed",
+  "amt": 2.94,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Daniel Levine, William Fradin, Jeffrey Brotman, Yuliana Songchan",
+  "sec": "Retailing",
+  "hq": "Carlsbad, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2157133/000215713326000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Zenith Gpo Inc",
   "round": "Seed",
   "amt": 5.0,
@@ -249,6 +333,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162800/000216280026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Topwater Cattle Co Acquisition Pool 2, Llc",
+  "round": "Seed",
+  "amt": 0.38,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Ryan Robinson, John Ikalowych, Lucas Reetz",
+  "sec": "Other",
+  "hq": "Mont Belvieu, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163514/000216351426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "U-Back 316 Holding Llc",
+  "round": "Seed",
+  "amt": 0.55,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Matthew Cox",
+  "sec": "Residential",
+  "hq": "Sheridan, WY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163213/000216321326000001/",
   "via": "SEC Form D"
  },
  {
@@ -319,6 +431,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2155978/000215597826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Irex Vi Retail Dst",
+  "round": "Seed",
+  "amt": 0.39,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Chris Cleghorn, N/A Invesco Real Estate Exchange LLC, N/A Invesco DST Manager LLC, N/A IREX Depositor LLC",
+  "sec": "Commercial",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163630/000216363026000001/",
   "via": "SEC Form D"
  },
  {
@@ -1131,6 +1257,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160887/000216088726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Datifact Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-06",
+  "inv": "",
+  "fnd": "Jeffrey Kimbrough, Jonathan Dykstra",
+  "sec": "Other Technology",
+  "hq": "Orange, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2144290/000214429026000003/",
   "via": "SEC Form D"
  },
  {
@@ -2632,6 +2772,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Ep Jefferson Flats Jv, Llc",
+  "round": "Seed",
+  "amt": 4.91,
+  "date": "2026-09-15",
+  "inv": "",
+  "fnd": "Colin Elliott, Andrew Elliott, Bill Elliott, Elliott Properties II, L.L.C., EP Jefferson Flats GP, LLC",
+  "sec": "Commercial",
+  "hq": "Richmond, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162657/000216265726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Liora Life Sciences, Llc",
   "round": "Seed",
   "amt": 0.3,
@@ -3287,6 +3441,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2115414/000211541426000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tremont Ai, Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-02-09",
+  "inv": "",
+  "fnd": "Long Le",
+  "sec": "Other Technology",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2115573/000211557326000002/",
   "via": "SEC Form D"
  },
  {
