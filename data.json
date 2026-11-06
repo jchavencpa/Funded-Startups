@@ -14,6 +14,20 @@
   "via": "News"
  },
  {
+  "name": "Trinity Ai Boston, Inc.",
+  "round": "Seed",
+  "amt": 6.0,
+  "date": "2026-11-05",
+  "inv": "",
+  "fnd": "Jayashankar Nanjundaswamy, Ganesh Ramamoorthy, Ed Aguero",
+  "sec": "Other Technology",
+  "hq": "Andover, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161590/000216159026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Madison Sunrise, Llc",
   "round": "Seed",
   "amt": 5.0,
@@ -28,6 +42,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Wg Wayzata Dst",
+  "round": "Seed",
+  "amt": 1.31,
+  "date": "2026-11-04",
+  "inv": "",
+  "fnd": "Duane Lund, - Exchange Realty, Inc.",
+  "sec": "Commercial",
+  "hq": "Bloomington, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2090273/000209027326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Eastwall, Inc.",
+  "round": "Seed",
+  "amt": 3.95,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "Glenn Mate, Brian Wallace, Alexander Brown",
+  "sec": "Other Technology",
+  "hq": "Lakewood, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159116/000215911626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Avenue One Three Llc",
   "round": "Seed",
   "amt": 3.22,
@@ -39,6 +81,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163119/000216311926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Part Ii Inc.",
+  "round": "Seed",
+  "amt": 6.52,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Kristopher Krisco, Jason Tillery, Samuel Bove, Theodore Lim, Maria Valverde",
+  "sec": "Other Technology",
+  "hq": "Chicago, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2053367/000205336726000002/",
   "via": "SEC Form D"
  },
  {
@@ -210,6 +266,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Lvlup Properties, Llc",
+  "round": "Seed",
+  "amt": 2.73,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Ryan Landis",
+  "sec": "Residential",
+  "hq": "South Jordan, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162418/000216241826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Parallax Space, Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Thomas Salzman, Rory Hofstatter",
+  "sec": "Other",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162140/000121390026116255/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Iwish Ai Inc",
   "round": "Seed",
   "amt": 0.5,
@@ -277,6 +361,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157133/000215713326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Bridgehealth Pharmaceuticals, Inc.",
+  "round": "Seed",
+  "amt": 3.5,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Neal Muni, Indu Muni, Howard Ackerman",
+  "sec": "Pharmaceuticals",
+  "hq": "Woburn, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162724/000216272426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Goa Therapeutics Corp",
+  "round": "Seed",
+  "amt": 0.3,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Andrew Altschuler, Tami Barr, Dean Hakanson, David Landesman",
+  "sec": "Pharmaceuticals",
+  "hq": "West Palm Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2131824/000146581826000011/",
   "via": "SEC Form D"
  },
  {
@@ -361,6 +473,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163213/000216321326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tlc 29Th St Co-Invest Llc",
+  "round": "Seed",
+  "amt": 2.35,
+  "date": "2026-10-21",
+  "inv": "",
+  "fnd": "Robert Gandy IV",
+  "sec": "Commercial",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161674/000216167426000001/",
   "via": "SEC Form D"
  },
  {
@@ -1596,6 +1722,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Stealth Critical Metals Inc",
+  "round": "Seed",
+  "amt": 6.5,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Timur Kuru, Luis Arbulu, Mike Anlin, Kristi Palmer",
+  "sec": "Other",
+  "hq": "Houston, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163750/000216375026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Bueno Ltd.",
   "round": "Seed",
   "amt": 2.4,
@@ -2534,6 +2674,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Nova Boulders Llc",
+  "round": "Seed",
+  "amt": 0.62,
+  "date": "2026-09-22",
+  "inv": "",
+  "fnd": "MAGGIE YEUNG, NILO BATLE",
+  "sec": "Other",
+  "hq": "Burlingame, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2094909/000209490926000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Cone Technologies, Inc.",
   "round": "Seed",
   "amt": 0.97,
@@ -3206,6 +3360,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Hexagon Labs, Inc.",
+  "round": "Seed",
+  "amt": 5.8,
+  "date": "2026-06-26",
+  "inv": "",
+  "fnd": "Ramon Goncalves da Silva, Ayotunde Adeyinka, Avidan Ross",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163480/000216348026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Woodland Meadows Mhc Llc",
+  "round": "Seed",
+  "amt": 0.97,
+  "date": "2026-06-18",
+  "inv": "",
+  "fnd": "Kimberly Dandurant",
+  "sec": "Commercial",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163035/000216303526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "American Fertilizer, Llc",
   "round": "Seed",
   "amt": 2.26,
@@ -3497,6 +3679,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2056666/000123191926001500/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sunnydata Inc.",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2025-12-22",
+  "inv": "",
+  "fnd": "Brock Noland, Kailash Thapa",
+  "sec": "Other Technology",
+  "hq": "Minneapolis, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2117148/000211714826000001/",
   "via": "SEC Form D"
  },
  {
