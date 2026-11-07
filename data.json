@@ -28,6 +28,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Alg Trinity Llc",
+  "round": "Seed",
+  "amt": 0.8,
+  "date": "2026-11-05",
+  "inv": "",
+  "fnd": "Christian Jewkes, Michael Hall",
+  "sec": "Residential",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2153002/000215300226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Madison Sunrise, Llc",
   "round": "Seed",
   "amt": 5.0,
@@ -67,6 +81,62 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159116/000215911626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Lumon Solutions Marshfield, Llc",
+  "round": "Seed",
+  "amt": 4.0,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "Trenton Overhue",
+  "sec": "Other Technology",
+  "hq": "Springfield, MO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163967/000216396726000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Frost Development Llc",
+  "round": "Seed",
+  "amt": 4.15,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "Valeriy Katayev, Daniel Kaykov",
+  "sec": "Commercial",
+  "hq": "Jericho, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162811/000216281126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Good Part Hair, Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "Katherine Wills",
+  "sec": "Other",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162515/000216251526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Vidangel Entertainment, Inc.",
+  "round": "Seed",
+  "amt": 9.8,
+  "date": "2026-11-01",
+  "inv": "",
+  "fnd": "Jeremy Lewis, William Aho, Jason Bodily, Jarom McDonald, Thomas Nehren",
+  "sec": "Other",
+  "hq": "Midvale, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2126454/000212645426000004/",
   "via": "SEC Form D"
  },
  {
@@ -126,6 +196,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Flax Technologies, Inc.",
+  "round": "Seed",
+  "amt": 7.89,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Trenton Udvar-Hazy, David Kartchner, Tanner Potter, Eric Hilton",
+  "sec": "Other Technology",
+  "hq": "Seattle, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162905/000216290526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Almeda Genoa Warehouse, Llc",
   "round": "Seed",
   "amt": 1.07,
@@ -165,6 +249,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163196/000216319626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Pacific Sands Pine Investments, Llc",
+  "round": "Seed",
+  "amt": 0.86,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "James Shute, Ryan Mansour",
+  "sec": "Commercial",
+  "hq": "Irvine, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164237/000216423726000001/",
   "via": "SEC Form D"
  },
  {
@@ -238,6 +336,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Agency Tool Co",
+  "round": "Seed",
+  "amt": 8.74,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "John Morrison, Davis Foster",
+  "sec": "Other Technology",
+  "hq": "Loveland, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162824/000216282426000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Rich Rising Group, Inc",
   "round": "Seed",
   "amt": 1.0,
@@ -291,6 +403,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162140/000121390026116255/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sunshine Buns, Inc.",
+  "round": "Seed",
+  "amt": 7.0,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Christiana Hammer, Matthew Hammer, Brian Martin, Kathryn Martin, Paul Campbell, Robert Campbell, Jeff Durham",
+  "sec": "Retailing",
+  "hq": "Orem, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163918/000216391826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Txse Group Inc.",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "James Lee, Thomas Long, Tyson Tuttle, James Perry, Paul Foster, Richard Roberts, Alex Bussandri, Jeffrey Brown, Rick Yoder, Cameron Smith, R",
+  "sec": "Other",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000009/",
   "via": "SEC Form D"
  },
  {
@@ -389,6 +529,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2131824/000146581826000011/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Alphalitigation Inc.",
+  "round": "Seed",
+  "amt": 1.8,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Anand Upadhye, Jessica Mah",
+  "sec": "Other Technology",
+  "hq": "Covina, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2112552/000211255226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gaingels Nomagic 2026 Llc",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159874/000215987426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sc North Augusta Bluegrass, Llc",
+  "round": "Seed",
+  "amt": 0.44,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "\".\" RealtyLink Management, LLC",
+  "sec": "Commercial",
+  "hq": "Greenville, SC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161437/000216143726000001/",
   "via": "SEC Form D"
  },
  {
@@ -1736,6 +1918,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Rmxd Avenue South Investments, Llc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "- RMXD Avenue South Partners, LLC, - Realberry Real Estate Services, LLC, Troy McWhinney",
+  "sec": "Commercial",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2141650/000214165026000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Bueno Ltd.",
   "round": "Seed",
   "amt": 2.4,
@@ -2828,6 +3024,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Leapgreat Inc.",
+  "round": "Seed",
+  "amt": 0.56,
+  "date": "2026-09-18",
+  "inv": "",
+  "fnd": "Ross Orrett, Robert Cummings, Bernhard Lang, Dean Milne, Sanjay Motwani",
+  "sec": "Other Technology",
+  "hq": "Wilmington, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1979896/000197989626000004/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Runloyal, Inc.",
   "round": "Seed",
   "amt": 1.17,
@@ -2909,6 +3119,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160626/000216062626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Rabkdo Lth Llc",
+  "round": "Seed",
+  "amt": 4.0,
+  "date": "2026-09-16",
+  "inv": "",
+  "fnd": "n/a Telos North Program I Manager LLC, Richard Littlehale",
+  "sec": "Other",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164210/000216421026000001/",
   "via": "SEC Form D"
  },
  {
@@ -3273,6 +3497,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2157448/000215744826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Jemal'S 4100 Fairfax Investor Llc",
+  "round": "Seed",
+  "amt": 6.25,
+  "date": "2026-07-28",
+  "inv": "",
+  "fnd": "Norman Jemal, - Jemal's 4100 Fairfax MM LLC",
+  "sec": "Commercial",
+  "hq": "Washington, DC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2151282/000215128226000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Jemal'S Tysons 4100 Llc",
+  "round": "Seed",
+  "amt": 6.58,
+  "date": "2026-07-28",
+  "inv": "",
+  "fnd": "Norman Jemal, - Jemal's 4100 Fairfax MM LLC",
+  "sec": "Commercial",
+  "hq": "Washington, DC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2151302/000215130226000002/",
   "via": "SEC Form D"
  },
  {
@@ -3707,6 +3959,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159226/000168316826008008/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Uncovr, Inc.",
+  "round": "Seed",
+  "amt": 5.14,
+  "date": "2025-12-11",
+  "inv": "",
+  "fnd": "Ines Iraki, Johann Diep",
+  "sec": "Other Technology",
+  "hq": "Brooklyn, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2142358/000123191926001546/",
   "via": "SEC Form D"
  },
  {
