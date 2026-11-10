@@ -1,5 +1,19 @@
 [
  {
+  "name": "Belle Meade Spirits, Llc",
+  "round": "Seed",
+  "amt": 5.9,
+  "date": "2026-11-06",
+  "inv": "",
+  "fnd": "Samuel Keith",
+  "sec": "Other",
+  "hq": "Nashville, TN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2041718/000204171826000003/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Panama-based Efy Finance",
   "round": "Seed",
   "amt": 5.0,
@@ -39,6 +53,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2153002/000215300226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Spc Trinity Llc",
+  "round": "Seed",
+  "amt": 4.79,
+  "date": "2026-11-05",
+  "inv": "",
+  "fnd": "Jeremy Dyer",
+  "sec": "Residential",
+  "hq": "Lake Elmo, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2151665/000215166526000001/",
   "via": "SEC Form D"
  },
  {
@@ -294,6 +322,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Cardo Compute Llc",
+  "round": "Seed",
+  "amt": 1.25,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Justin Carlson, Daniel Condon",
+  "sec": "Computers",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164086/000137647426000697/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agilis Medical, Inc.",
   "round": "Seed",
   "amt": 4.0,
@@ -347,6 +389,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162824/000216282426000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Bamboo Creative Solutions Llc",
+  "round": "Seed",
+  "amt": 5.08,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Santiago Schmidt Prim, Nicolas Kolliker Frers, Maximo Reca",
+  "sec": "Other Technology",
+  "hq": "Miami, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2038583/000147450626000018/",
   "via": "SEC Form D"
  },
  {
@@ -431,6 +487,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2017031/000201703126000009/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Happy Cow Foods Inc.",
+  "round": "Seed",
+  "amt": 7.1,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Brian Gibb, Joshua Haddox",
+  "sec": "Retailing",
+  "hq": "Costa Mesa, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163740/000216374026000001/",
   "via": "SEC Form D"
  },
  {
@@ -1257,6 +1327,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162057/000216205726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Elka Lane Apts Llc",
+  "round": "Seed",
+  "amt": 3.7,
+  "date": "2026-10-10",
+  "inv": "",
+  "fnd": "Darin Beske, Anthony Hudzinski, Gordon Stebbings",
+  "sec": "Residential",
+  "hq": "Deforest, WI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162798/000216279826000001/",
   "via": "SEC Form D"
  },
  {
@@ -3791,6 +3875,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159078/000215907826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Giftbetter Inc.",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-04-18",
+  "inv": "",
+  "fnd": "Mark Sawyier, Stephen Sawyier",
+  "sec": "Other Technology",
+  "hq": "St. Louis, MO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164056/000216405626000001/",
   "via": "SEC Form D"
  },
  {
