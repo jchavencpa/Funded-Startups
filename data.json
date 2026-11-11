@@ -1,5 +1,19 @@
 [
  {
+  "name": "American Ai Logistics, Inc.",
+  "round": "Seed",
+  "amt": 0.76,
+  "date": "2026-11-09",
+  "inv": "",
+  "fnd": "Tim Silk, Roumen Kassabov, Anthony Laiuppa, justin wright, john cofrancesco, kilman jonathan",
+  "sec": "Computers",
+  "hq": "Orlando, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2068742/000206874226000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Belle Meade Spirits, Llc",
   "round": "Seed",
   "amt": 5.9,
@@ -11,6 +25,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2041718/000204171826000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Stono Vista Developer Llc",
+  "round": "Seed",
+  "amt": 0.79,
+  "date": "2026-11-06",
+  "inv": "",
+  "fnd": "Andrew Weatherford, Adrien Dannemiller",
+  "sec": "Residential",
+  "hq": "Indianapolis, IN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163912/000216391226000001/",
   "via": "SEC Form D"
  },
  {
@@ -126,6 +154,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "M&O/Lowcountry Nexton Mob, Llc",
+  "round": "Seed",
+  "amt": 5.5,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "N/A M&O Nexton OM, LLC, John Bowling, Jr., Christian Hauck, John Carter, Steven Higgs, Alan Jenkins, Jeffrey Rutherford, Lindsay Wyatt, Curt",
+  "sec": "Other",
+  "hq": "Alpharetta, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163333/000216333326000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Frost Development Llc",
   "round": "Seed",
   "amt": 4.15,
@@ -193,6 +235,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2053367/000205336726000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Rsr130Nj, Llc",
+  "round": "Seed",
+  "amt": 1.01,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Shane Albers",
+  "sec": "Commercial",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1910315/000191031526000001/",
   "via": "SEC Form D"
  },
  {
@@ -336,6 +392,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Gaingels Path Robotics Sep 2026 Llc",
+  "round": "Seed",
+  "amt": 1.17,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158174/000215817426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Talbot Lodging Llc",
+  "round": "Seed",
+  "amt": 3.65,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Peter Plamondon, James Plamondon, Matthew Zappone, Michael Henningsen, Kristy Rogaski, Gary Fennell",
+  "sec": "Lodging and Conventions",
+  "hq": "Frederick, MD",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161137/000104303926000048/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agilis Medical, Inc.",
   "round": "Seed",
   "amt": 4.0,
@@ -403,6 +487,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2038583/000147450626000018/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Kulea Inc.",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Rex Jakobovits, Logan Breslin",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161261/000216126126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tender Loving Cravings, Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "TRACEY KING",
+  "sec": "Manufacturing",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164572/000216457226000001/",
   "via": "SEC Form D"
  },
  {
@@ -641,6 +753,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161437/000216143726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Play Operating Systems, Inc.",
+  "round": "Seed",
+  "amt": 4.52,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Luis Gaud, Patrick Suel, Jim Whims, John Kehriotis, Jim Hammerstedt, Phil Rosenberg",
+  "sec": "Other Technology",
+  "hq": "Linwood, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162864/000216286426000002/",
   "via": "SEC Form D"
  },
  {
@@ -1033,6 +1159,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161879/000216187926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Forest Estate Llc",
+  "round": "Seed",
+  "amt": 1.4,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Hugo Macau, Jacob Broner",
+  "sec": "Residential",
+  "hq": "Dartmouth, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163631/000216363126000001/",
   "via": "SEC Form D"
  },
  {
@@ -3847,6 +3987,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2102444/000210244426000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "V3Deo Inc.",
+  "round": "Seed",
+  "amt": 0.47,
+  "date": "2026-05-18",
+  "inv": "",
+  "fnd": "Lama Nachman",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163244/000204180626000021/",
   "via": "SEC Form D"
  },
  {
