@@ -210,6 +210,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Legence Corp.",
+  "round": "Seed",
+  "amt": 10.0,
+  "date": "2026-11-01",
+  "inv": "",
+  "fnd": "Jeffrey Sprau, Bryce Seki, Stephen Butz, Gregory Barnes, Stephen Hansen, Justin Schwartz, Terrence Keenen, David Coghlan, Robert Crisci, Chr",
+  "sec": "Other Energy",
+  "hq": "San Jose, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526458670/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Avenue One Three Llc",
   "round": "Seed",
   "amt": 3.22,
@@ -252,6 +266,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Idaho3 Mhp Investors Llc",
+  "round": "Seed",
+  "amt": 2.02,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Andrew Cramer, William Gruner",
+  "sec": "Residential",
+  "hq": "Vancouver, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162865/000216286526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Dixon Hall Apartments Llc",
   "round": "Seed",
   "amt": 0.83,
@@ -291,6 +319,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162905/000216290526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Ember Elite Hospitality, Llc",
+  "round": "Seed",
+  "amt": 2.82,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Priti Patel",
+  "sec": "Lodging and Conventions",
+  "hq": "Newark, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164735/000216473526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Lv1028 Llc",
+  "round": "Seed",
+  "amt": 1.3,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Samuel Cherry, Jason Ledell",
+  "sec": "Commercial",
+  "hq": "Las Vegas, NV",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164512/000216451226000001/",
   "via": "SEC Form D"
  },
  {
@@ -347,6 +403,90 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164237/000216423726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "58Eos, Llc",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Chris Hyndman, Niles Patel, Animesh Ravani, David Goldberg",
+  "sec": "Restaurants",
+  "hq": "Chicago, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164858/000216485826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Bhav Acquisition Corp Ii",
+  "round": "Seed",
+  "amt": 2.3,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Giri Devanur, Chaitanya Setti, Balaji Swaminathan, Piyush Sadana, John O'Connell",
+  "sec": "Other",
+  "hq": "Piscataway, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2142627/000121390026119067/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Cds Investment Llc",
+  "round": "Seed",
+  "amt": 3.4,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Rakesh Gupta, N/A RKT Ventures LLC, N/A RM Potomac Holdings LLC, N/A HVCG Potomac LLC, Anthony Dubbaneh",
+  "sec": "Other",
+  "hq": "Wilmington, DE",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164830/000216483026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Nichex Marketing, Llc",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Nathan Newport, Gibran Khan, David Beer",
+  "sec": "Other",
+  "hq": "Columbia City, IN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2158852/000215885226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Smart Response Technologies, Inc.",
+  "round": "Seed",
+  "amt": 0.52,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Roger Mann, Timothy Shaw, Milan Mueller, Ari Monkarsh, Tony Lettich, Edward Craig, James Merkle",
+  "sec": "Other Technology",
+  "hq": "Manassas, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1986601/000198660126000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Whitinsville Works Llc",
+  "round": "Seed",
+  "amt": 3.0,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "John Rowland, Sherman Rowland",
+  "sec": "Commercial",
+  "hq": "Whitinsville, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2156604/000215660426000001/",
   "via": "SEC Form D"
  },
  {
@@ -417,6 +557,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161137/000104303926000048/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Aerial Illuminations, Inc.",
+  "round": "Seed",
+  "amt": 1.12,
+  "date": "2026-10-27",
+  "inv": "",
+  "fnd": "Niroshan Senanayake, Robert Foster, Robert Bankey, Thomas Hudson, Dustin Froyum",
+  "sec": "Other",
+  "hq": "Groveland, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160665/000216066526000001/",
   "via": "SEC Form D"
  },
  {
@@ -515,6 +669,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164572/000216457226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Quantum Park I, Llc",
+  "round": "Seed",
+  "amt": 1.89,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Sanjay Patel, Alex Maurer, Hunter Leonard, - Quantum Park Manager, LLC, - Asymmetre Capital Holdings LLC, - Boxcar Capital Partners, LLC",
+  "sec": "Commercial",
+  "hq": "Carmel, IN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162315/000216231526000001/",
   "via": "SEC Form D"
  },
  {
