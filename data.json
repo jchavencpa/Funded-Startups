@@ -126,6 +126,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Mediplex Horsham, Llc",
+  "round": "Seed",
+  "amt": 0.94,
+  "date": "2026-11-04",
+  "inv": "",
+  "fnd": "a PA Limited Liability Company MPG Horsham Manager, LLC, Stephen Carpey, Jeffrey Goldstein",
+  "sec": "Commercial",
+  "hq": "Fort Washington, PA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164940/000216494026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Eastwall, Inc.",
   "round": "Seed",
   "amt": 3.95,
@@ -168,6 +182,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Golden Hour Llc",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "Carly Haller",
+  "sec": "Other",
+  "hq": "Okemos, MI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164539/000216453926000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Frost Development Llc",
   "round": "Seed",
   "amt": 4.15,
@@ -193,6 +221,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162515/000216251526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Imagen Flores Dental Support Services, Llc",
+  "round": "Seed",
+  "amt": 0.85,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "Rezwan Manji, David Diekmann",
+  "sec": "Other Health Care",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1819319/000216393326000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Imagen R&R Dental Care Support Services, Llc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "Rezwan Manji, David Diekmann",
+  "sec": "Other Health Care",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1819319/000216394126000001/",
   "via": "SEC Form D"
  },
  {
@@ -280,6 +336,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Gaingels Recursive Llc",
+  "round": "Seed",
+  "amt": 0.46,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160844/000216084426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Dixon Hall Apartments Llc",
   "round": "Seed",
   "amt": 0.83,
@@ -347,6 +417,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164512/000216451226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Arterra Pet Science, Inc.",
+  "round": "Seed",
+  "amt": 1.58,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Jason Charms, Jonathan Willbanks, Genevieve Gilbreath",
+  "sec": "Retailing",
+  "hq": "Leander, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164522/000216452226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gaingels Odyssey Llc",
+  "round": "Seed",
+  "amt": 0.37,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161295/000216129526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Pth Fof 4, Llc",
+  "round": "Seed",
+  "amt": 3.3,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Pryse Elam, Paul Ellis",
+  "sec": "Commercial",
+  "hq": "Orlando, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163441/000216344126000001/",
   "via": "SEC Form D"
  },
  {
@@ -683,6 +795,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162315/000216231526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Adaptive Investment Solutions, Inc.",
+  "round": "Seed",
+  "amt": 3.77,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Nathaniel Wice, Philip Dazhen Sun, Carter Burden III",
+  "sec": "Other",
+  "hq": "Boston, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1867515/000186751526000004/",
   "via": "SEC Form D"
  },
  {
@@ -3584,6 +3710,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Nighthawk Flight Systems, Inc.",
+  "round": "Seed",
+  "amt": 1.9,
+  "date": "2026-09-14",
+  "inv": "",
+  "fnd": "PAUL MARTIN, STEVEN JEPPSON, JORDAN SAWKIN, ALBERT ALTIERI, PAUL MEYER",
+  "sec": "Other Technology",
+  "hq": "Vista, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160846/000216084626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Copperpilot, Inc.",
   "round": "Seed",
   "amt": 0.3,
@@ -3763,6 +3903,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1972722/000197272226000005/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Skai Innovations Inc.",
+  "round": "Seed",
+  "amt": 0.33,
+  "date": "2026-08-31",
+  "inv": "",
+  "fnd": "Ryan Richardson, Anthony Ciaccio, Jordan Milkie, JARRETT FOOTE",
+  "sec": "Other Technology",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2130869/000213086926000004/",
   "via": "SEC Form D"
  },
  {
@@ -4284,6 +4438,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Eatfuti Inc.",
+  "round": "Seed",
+  "amt": 1.35,
+  "date": "2026-03-01",
+  "inv": "",
+  "fnd": "Tin Lam, Noor Ahmed, Khang Nguyen, Khoa Ma",
+  "sec": "Other Technology",
+  "hq": "Des Moines, IA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160337/000143774926036773/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Mikri Inc.",
   "round": "Seed",
   "amt": 1.35,
@@ -4435,20 +4603,6 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159985/000215998526000001/",
-  "via": "SEC Form D"
- },
- {
-  "name": "Coast Medical Innovations, Llc",
-  "round": "Seed",
-  "amt": 0.55,
-  "date": "2025-11-13",
-  "inv": "",
-  "fnd": "Brett Hazuka, Jason Forchione",
-  "sec": "Other Health Care",
-  "hq": "Ponte Vedra, FL",
-  "web": "",
-  "li": "",
-  "src": "https://www.sec.gov/Archives/edgar/data/2157443/000215744326000001/",
   "via": "SEC Form D"
  }
 ]
