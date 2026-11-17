@@ -1,5 +1,47 @@
 [
  {
+  "name": "Red Rock Syndication Llc",
+  "round": "Seed",
+  "amt": 7.5,
+  "date": "2026-11-16",
+  "inv": "",
+  "fnd": "Radhika Rastogi",
+  "sec": "Commercial",
+  "hq": "Phoenix, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165320/000216532026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Rosenthals Greenville Llc",
+  "round": "Seed",
+  "amt": 0.9,
+  "date": "2026-11-16",
+  "inv": "",
+  "fnd": "Joshua Berger",
+  "sec": "Retailing",
+  "hq": "Hugo, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160026/000216002626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Callan Jmb Inc.",
+  "round": "Seed",
+  "amt": 1.5,
+  "date": "2026-11-10",
+  "inv": "",
+  "fnd": "Wayne Williams, David Croyle, Christopher Shields, Liberty Duke, Gerald Dial",
+  "sec": "Business Services",
+  "hq": "Spring Branch, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2032545/000149315226052102/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "American Ai Logistics, Inc.",
   "round": "Seed",
   "amt": 0.76,
@@ -11,6 +53,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2068742/000206874226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "933 Upland Llc",
+  "round": "Seed",
+  "amt": 2.37,
+  "date": "2026-11-09",
+  "inv": "",
+  "fnd": "Lee Fensterstock, Gary Granoff",
+  "sec": "Residential",
+  "hq": "West Palm Beach, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165161/000110465926127708/",
   "via": "SEC Form D"
  },
  {
@@ -140,6 +196,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "G2 Power, Inc.",
+  "round": "Seed",
+  "amt": 1.19,
+  "date": "2026-11-04",
+  "inv": "",
+  "fnd": "Joel Haas, Jeffrey Haas, David Cusano, Michael Hillebrand, Chris Doyle",
+  "sec": "Other Energy",
+  "hq": "Jupiter, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164540/000216454026000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Eastwall, Inc.",
   "round": "Seed",
   "amt": 3.95,
@@ -252,6 +322,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Linok Inc.",
+  "round": "Seed",
+  "amt": 3.13,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "Boaz Grof, Reuven Harrison, Charles Robbins, Sean Koffel",
+  "sec": "Other Technology",
+  "hq": "Lakewood Ranch, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2109978/000210997826000002/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Vidangel Entertainment, Inc.",
   "round": "Seed",
   "amt": 9.8,
@@ -277,6 +361,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2052568/000119312526458670/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tysons Club Inc.",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-01",
+  "inv": "",
+  "fnd": "AARON WALDROP, KYLE RAY",
+  "sec": "Other",
+  "hq": "Vienna, VA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2075849/000207584926000005/",
   "via": "SEC Form D"
  },
  {
@@ -347,6 +445,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160844/000216084426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Action Intel Inc.",
+  "round": "Seed",
+  "amt": 0.83,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Susan Olson, Patrick Morand",
+  "sec": "Other Technology",
+  "hq": "Louisville, KY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160558/000216055826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Tabi Tech Inc",
+  "round": "Seed",
+  "amt": 3.0,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Ricardo Gonzalez, McGinley Joel",
+  "sec": "Other Technology",
+  "hq": "Miami, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163236/000216323626000001/",
   "via": "SEC Form D"
  },
  {
@@ -459,6 +585,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163441/000216344126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Stripes Beauty, Llc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-10-29",
+  "inv": "",
+  "fnd": "Cara Muldowney",
+  "sec": "Retailing",
+  "hq": "Beverly Hills, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165371/000140508626000970/",
   "via": "SEC Form D"
  },
  {
@@ -2618,6 +2758,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Pop Family Investors, Llc",
+  "round": "Seed",
+  "amt": 1.79,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Nicole Grossman, Max Grossman",
+  "sec": "Other",
+  "hq": "Rye, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164317/000216431726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Agriculture Scout Ai, Inc.",
   "round": "Seed",
   "amt": 0.42,
@@ -3959,6 +4113,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2133508/000213350826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Wildwood D19 Member Llc",
+  "round": "Seed",
+  "amt": 1.44,
+  "date": "2026-08-21",
+  "inv": "",
+  "fnd": "TNLD Terra Nova Land Development LLC, Shane Carter, Nick Bouquet, MIchael Wheeler",
+  "sec": "Residential",
+  "hq": "Portsmouth, NH",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165239/000216523926000001/",
   "via": "SEC Form D"
  },
  {
