@@ -98,6 +98,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Sensetics, Inc.",
+  "round": "Seed",
+  "amt": 7.19,
+  "date": "2026-11-06",
+  "inv": "",
+  "fnd": "Adam Hopkins, Chris Allegro, Xiaoyu (Rayne) Zheng",
+  "sec": "Other Technology",
+  "hq": "Princeton, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159328/000215932826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Panama-based Efy Finance",
   "round": "Seed",
   "amt": 5.0,
@@ -336,6 +350,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Arc Greenway Office Investor, Llc",
+  "round": "Seed",
+  "amt": 4.34,
+  "date": "2026-11-02",
+  "inv": "",
+  "fnd": "N/A ARC Greenway Manager, LLC, John Gallagher, Benjamin Sacks, Gary Linhart",
+  "sec": "Commercial",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2161528/000091228226001507/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Vidangel Entertainment, Inc.",
   "round": "Seed",
   "amt": 9.8,
@@ -473,6 +501,48 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163236/000216323626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Formation Investors, Llc",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Adam Herrin",
+  "sec": "Commercial",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165408/000216540826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Reach Neuro, Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Jennifer Ernst, Thorne Sparkman, Marco Capogrosso, Douglas Weber, Jordi Parramon",
+  "sec": "Other Health Care",
+  "hq": "Providence, RI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1942277/000194227726000004/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Sc Idaho Investors, Llc",
+  "round": "Seed",
+  "amt": 5.49,
+  "date": "2026-10-30",
+  "inv": "",
+  "fnd": "Jonathan Bond, Jacob Bond, Paras Shah",
+  "sec": "Commercial",
+  "hq": "Vancouver, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165323/000216532326000001/",
   "via": "SEC Form D"
  },
  {
@@ -1428,6 +1498,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Custom Trucks Nw, Llc",
+  "round": "Seed",
+  "amt": 3.1,
+  "date": "2026-10-19",
+  "inv": "",
+  "fnd": "Christopher Bingham",
+  "sec": "Other",
+  "hq": "Puyallup, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2160724/000216072426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Myvillage, Inc.",
   "round": "Seed",
   "amt": 7.6,
@@ -2069,6 +2153,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1977151/000197715126000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Epb4, Llc",
+  "round": "Seed",
+  "amt": 3.96,
+  "date": "2026-10-08",
+  "inv": "",
+  "fnd": "Rachid Sefrioui",
+  "sec": "Other",
+  "hq": "Scottsdale, AZ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163613/000216361326000001/",
   "via": "SEC Form D"
  },
  {
@@ -2769,6 +2867,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164317/000216431726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Usrc Heritage Home, Llc",
+  "round": "Seed",
+  "amt": 1.52,
+  "date": "2026-09-30",
+  "inv": "",
+  "fnd": "Thomas Weinberg, Steven Nottingham, Mary Dittrich, Christopher Skowron, James Hilger, Oladapo Afolabi, Geethanjali Ramamurthy, Koshy Abraham",
+  "sec": "Other Health Care",
+  "hq": "Plano, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164823/000216482326000001/",
   "via": "SEC Form D"
  },
  {
@@ -4491,6 +4603,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163244/000204180626000021/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Taronics Inc.",
+  "round": "Seed",
+  "amt": 0.26,
+  "date": "2026-05-15",
+  "inv": "",
+  "fnd": "Ron Bin Cheng, Charles Raye, Elizabeth Thomas",
+  "sec": "Manufacturing",
+  "hq": "Wellesley Hills, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2137537/000213753726000001/",
   "via": "SEC Form D"
  },
  {
