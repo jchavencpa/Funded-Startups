@@ -1,5 +1,33 @@
 [
  {
+  "name": "Spi Briarcrest Equity, Llc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-17",
+  "inv": "",
+  "fnd": "Michael Becker, Sean Mabarak",
+  "sec": "Commercial",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165570/000216557026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Secondappraisal Inc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-17",
+  "inv": "",
+  "fnd": "Kenneth Davis, Jonathon Thomas, Fraser Smith, David Frazier",
+  "sec": "Other",
+  "hq": "West Jordan, UT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2116264/000211626426000004/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Red Rock Syndication Llc",
   "round": "Seed",
   "amt": 7.5,
@@ -25,6 +53,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160026/000216002626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Hvc Woodstock Llc",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-11-14",
+  "inv": "",
+  "fnd": "n/a Lakefield Land LLC, Scott Beach, Aman Kakkar",
+  "sec": "Commercial",
+  "hq": "Cumming, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2085825/000208582526000001/",
   "via": "SEC Form D"
  },
  {
@@ -168,6 +210,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Mkdc Llc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-05",
+  "inv": "",
+  "fnd": "CHONG YAN, Timothy Flechtner, Yijia Xin",
+  "sec": "Computers",
+  "hq": "Raleigh, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162324/000216232426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Madison Sunrise, Llc",
   "round": "Seed",
   "amt": 5.0,
@@ -277,6 +333,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164539/000216453926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Broadview Communities Hazelwood Estates, Llc",
+  "round": "Seed",
+  "amt": 1.11,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "LARRY ABRAMOWITZ, N/A BCP MANAGEMENT HAZELWOOD, LLC",
+  "sec": "Residential",
+  "hq": "Aventura, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165594/000216559426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Safe Oil Corp",
+  "round": "Seed",
+  "amt": 2.4,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "George Penyak, Robert Hogan, James Braun",
+  "sec": "Other Technology",
+  "hq": "Columbia, SC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1989290/000198929026000002/",
   "via": "SEC Form D"
  },
  {
@@ -1019,6 +1103,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/1867515/000186751526000004/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Daytona Valor Investors Llc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-10-26",
+  "inv": "",
+  "fnd": "Lance Silver",
+  "sec": "Commercial",
+  "hq": "Clearwater, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165217/000216521726000001/",
   "via": "SEC Form D"
  },
  {
@@ -2548,6 +2646,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Million Dollar Hot Dog Ltd Liability Co",
+  "round": "Seed",
+  "amt": 0.54,
+  "date": "2026-10-02",
+  "inv": "",
+  "fnd": "John Johnson, Sue Wagner, Greg Nobile",
+  "sec": "Other",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159888/000215988826000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Darklight Collection Llc",
   "round": "Seed",
   "amt": 1.0,
@@ -3721,6 +3833,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2159115/000215911526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Living At 850, Llc",
+  "round": "Seed",
+  "amt": 6.7,
+  "date": "2026-09-21",
+  "inv": "",
+  "fnd": "Marc Abou-Ezzi, Akash Desai, Sebastian Malca, Carl Venezia, Benjamin Simon",
+  "sec": "Residential",
+  "hq": "Methuen, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165350/000216535026000001/",
   "via": "SEC Form D"
  },
  {
