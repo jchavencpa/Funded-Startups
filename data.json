@@ -56,6 +56,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Nre Pulliam Investors, Llc",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-11-16",
+  "inv": "",
+  "fnd": "David Nazarian, Andrew Winograd, Phillip Nazarian",
+  "sec": "Residential",
+  "hq": "Beverly Hills, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166166/000216616626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hvc Woodstock Llc",
   "round": "Seed",
   "amt": 0.75,
@@ -81,6 +95,34 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162666/000216266626000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gmp Pro Technologies Llc",
+  "round": "Seed",
+  "amt": 0.3,
+  "date": "2026-11-13",
+  "inv": "",
+  "fnd": "N/A Hornburg Holdings LLC, Brian Jones, Travis Jones",
+  "sec": "Other Technology",
+  "hq": "San Antonio, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165327/000216532726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Mtntough Inc.",
+  "round": "Seed",
+  "amt": 1.24,
+  "date": "2026-11-12",
+  "inv": "",
+  "fnd": "Lyle Hebel, Randy Newberg, Allison Wing, Ryan Watson, David Fuller",
+  "sec": "Other Technology",
+  "hq": "Bozeman, MT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/1928649/000192864926000003/",
   "via": "SEC Form D"
  },
  {
@@ -266,6 +308,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Blue Spruce Management, Inc.",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-11-06",
+  "inv": "",
+  "fnd": "Mohammad Malik",
+  "sec": "Other",
+  "hq": "Newport, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Panama-based Efy Finance",
   "round": "Seed",
   "amt": 5.0,
@@ -333,6 +389,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162324/000216232426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Blitzoo, Inc.",
+  "round": "Seed",
+  "amt": 2.59,
+  "date": "2026-11-05",
+  "inv": "",
+  "fnd": "Bradley Berman, Jesse Malone, Eric Munson",
+  "sec": "Other Technology",
+  "hq": "Minnetonka, MN",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2050068/000101410826000069/",
   "via": "SEC Form D"
  },
  {
@@ -529,6 +599,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2042877/000204287726000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Atlas Carlsbad Village Class A, Llc",
+  "round": "Seed",
+  "amt": 2.2,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "Brian Dinerstein, John Caltagirone, Jack Dinerstein, Bradley Dinerstein, Vincent Caltagirone",
+  "sec": "Commercial",
+  "hq": "Houston, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2147865/000214786526000002/",
   "via": "SEC Form D"
  },
  {
@@ -1540,6 +1624,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Tydal Technologies, Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-22",
+  "inv": "",
+  "fnd": "Eric Wisch, Wan Li Zhu",
+  "sec": "Other Technology",
+  "hq": "Cambridge, MA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164404/000216440426000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Zenith Gpo Inc",
   "round": "Seed",
   "amt": 5.0,
@@ -2324,6 +2422,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Inceptionpower Llc",
+  "round": "Seed",
+  "amt": 0.75,
+  "date": "2026-10-11",
+  "inv": "",
+  "fnd": "Wei Chen",
+  "sec": "Other",
+  "hq": "Bothell, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165696/000216569626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Elka Lane Apts Llc",
   "round": "Seed",
   "amt": 3.7,
@@ -2405,6 +2517,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2162285/000216228526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Goc Sunset Investors Llc",
+  "round": "Seed",
+  "amt": 0.8,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "Conor McInerney",
+  "sec": "Residential",
+  "hq": "Okemos, MI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166185/000216618526000001/",
   "via": "SEC Form D"
  },
  {
@@ -3066,6 +3192,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "L3 Edge Collection I Investors Llc",
+  "round": "Seed",
+  "amt": 5.67,
+  "date": "2026-10-01",
+  "inv": "",
+  "fnd": "Domenic Lanni, Timothy Phair, - L3 Edge Collection I GP LLC",
+  "sec": "Commercial",
+  "hq": "Chicago, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164170/000216417026000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Bueno Ltd.",
   "round": "Seed",
   "amt": 2.4,
@@ -3385,6 +3525,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2160768/000216076826000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Maple Privacy Labs, Inc.",
+  "round": "Seed",
+  "amt": 5.37,
+  "date": "2026-09-29",
+  "inv": "",
+  "fnd": "Mark Suman, Anthony Ronning, Nick Efstratis",
+  "sec": "Other Technology",
+  "hq": "Austin, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2163334/000216333426000001/",
   "via": "SEC Form D"
  },
  {
@@ -5289,20 +5443,6 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2041354/000121390026109717/",
-  "via": "SEC Form D"
- },
- {
-  "name": "Lip Whitfield Investors, Llc",
-  "round": "Seed",
-  "amt": 2.05,
-  "date": "2025-11-20",
-  "inv": "",
-  "fnd": "N/A Liberty Investment Partners, LLC, John Barker, N/A LIP PS4, LLC, N/A LIP Whitfield Apartments, LLC",
-  "sec": "Commercial",
-  "hq": "Raleigh, NC",
-  "web": "",
-  "li": "",
-  "src": "https://www.sec.gov/Archives/edgar/data/2159985/000215998526000001/",
   "via": "SEC Form D"
  }
 ]
