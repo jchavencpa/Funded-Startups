@@ -1,5 +1,19 @@
 [
  {
+  "name": "1145 Wash Blvd Llc",
+  "round": "Seed",
+  "amt": 0.71,
+  "date": "2026-11-23",
+  "inv": "",
+  "fnd": "Matthew Ryden, John Ryden, Lew Goldman, Scott Raeber",
+  "sec": "Commercial",
+  "hq": "Boise, ID",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166346/000216634626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Spi Briarcrest Equity, Llc",
   "round": "Seed",
   "amt": 1.0,
@@ -112,6 +126,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Infravana Inc",
+  "round": "Seed",
+  "amt": 6.75,
+  "date": "2026-11-13",
+  "inv": "",
+  "fnd": "Tushar Krishna, Arijit Raychowdhury, Parker McKee",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165471/000216547126000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Mtntough Inc.",
   "round": "Seed",
   "amt": 1.24,
@@ -151,6 +179,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2165279/000216527926000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Villadom Milton-Freewater 89 Mhp Llc",
+  "round": "Seed",
+  "amt": 1.1,
+  "date": "2026-11-10",
+  "inv": "",
+  "fnd": "Patrick McDonald, Nick Cebula",
+  "sec": "Residential",
+  "hq": "Burien, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165442/000216544226000001/",
   "via": "SEC Form D"
  },
  {
@@ -221,6 +263,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2091915/000209191526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Climate Scale Inc.",
+  "round": "Seed",
+  "amt": 2.63,
+  "date": "2026-11-09",
+  "inv": "",
+  "fnd": "Jack Rusk",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2050269/000205026926000002/",
   "via": "SEC Form D"
  },
  {
@@ -487,6 +543,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163402/000216340226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Pi Harbor District Portfolio, Llc",
+  "round": "Seed",
+  "amt": 6.17,
+  "date": "2026-11-04",
+  "inv": "",
+  "fnd": "Jeremy Antes",
+  "sec": "Commercial",
+  "hq": "Overland Park, KS",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166667/000216666726000001/",
   "via": "SEC Form D"
  },
  {
@@ -1467,6 +1537,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163740/000216374026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Maine Advanced Systems Group Inc.",
+  "round": "Seed",
+  "amt": 2.0,
+  "date": "2026-10-23",
+  "inv": "",
+  "fnd": "Jonathan Rice, Cheikh Fall",
+  "sec": "Other Technology",
+  "hq": "Portland, ME",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166007/000216600726000001/",
   "via": "SEC Form D"
  },
  {
@@ -4368,6 +4452,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Coral Mountain Opco Llc",
+  "round": "Seed",
+  "amt": 1.55,
+  "date": "2026-09-18",
+  "inv": "",
+  "fnd": "Graham Culp, Michael Burkart, Garrett Simon",
+  "sec": "Other",
+  "hq": "Santa Monica, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2162296/000216229626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Runloyal, Inc.",
   "round": "Seed",
   "amt": 1.17,
@@ -4463,6 +4561,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2164210/000216421026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Yaven, Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-09-16",
+  "inv": "",
+  "fnd": "Nicholas Price, Bettina Sosa Rohl",
+  "sec": "Other Technology",
+  "hq": "New York, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2146457/000214645726000002/",
   "via": "SEC Form D"
  },
  {
@@ -4928,6 +5040,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Frontrace Inc.",
+  "round": "Seed",
+  "amt": 1.09,
+  "date": "2026-07-14",
+  "inv": "",
+  "fnd": "JEFFREY RUBENSTEIN",
+  "sec": "Other",
+  "hq": "Boca Raton, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2022735/000147450626000019/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Dolly Llc",
   "round": "Seed",
   "amt": 0.6,
@@ -4995,6 +5121,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163480/000216348026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Fcre Tech Park I, Llc",
+  "round": "Seed",
+  "amt": 0.51,
+  "date": "2026-06-23",
+  "inv": "",
+  "fnd": "Richard Kenny, Rikki Jack, Douglas Kenny, Falcon Capital Real Estate, LLC",
+  "sec": "Other",
+  "hq": "Alpharetta, GA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2145372/000214537226000001/",
   "via": "SEC Form D"
  },
  {
@@ -5191,6 +5331,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2161640/000143774926033395/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Next Robot Inc",
+  "round": "Seed",
+  "amt": 5.11,
+  "date": "2026-05-11",
+  "inv": "",
+  "fnd": "Zhenyu Huang",
+  "sec": "Other Technology",
+  "hq": "Chino Hills, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2069196/000206919626000002/",
   "via": "SEC Form D"
  },
  {
