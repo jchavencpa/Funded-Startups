@@ -42,6 +42,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Lcp Lockbourne Ltd Llc",
+  "round": "Seed",
+  "amt": 0.6,
+  "date": "2026-11-17",
+  "inv": "",
+  "fnd": "Jacob Mutz",
+  "sec": "Commercial",
+  "hq": "Denver, CO",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2164873/000216487326000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Red Rock Syndication Llc",
   "round": "Seed",
   "amt": 7.5,
@@ -154,6 +168,34 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Hs Orem Houston, Llc",
+  "round": "Seed",
+  "amt": 1.12,
+  "date": "2026-11-12",
+  "inv": "",
+  "fnd": "Michael Canning, Craig Hall, Ben Brewer, Mark Klipsch, Bryan Tolbert",
+  "sec": "Commercial",
+  "hq": "Dallas, TX",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166790/000216679026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Bebemos Inc.",
+  "round": "Seed",
+  "amt": 0.25,
+  "date": "2026-11-11",
+  "inv": "",
+  "fnd": "Preston Caffrey, Jonathan Maddux, Jay Ressler",
+  "sec": "Other",
+  "hq": "Encinitas, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Callan Jmb Inc.",
   "round": "Seed",
   "amt": 1.5,
@@ -193,6 +235,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2165442/000216544226000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Cutting Edge Safety, Inc.",
+  "round": "Seed",
+  "amt": 0.5,
+  "date": "2026-11-10",
+  "inv": "",
+  "fnd": "Philip Croxford, James Millis, Terry Winters, Quan Zhang",
+  "sec": "Other Health Care",
+  "hq": "Hinsdale, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/",
   "via": "SEC Form D"
  },
  {
@@ -277,6 +333,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2050269/000205026926000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Gaingels Panacea Llc",
+  "round": "Seed",
+  "amt": 0.41,
+  "date": "2026-11-09",
+  "inv": "",
+  "fnd": "Paul Grossinger",
+  "sec": "Other",
+  "hq": "Burlington, VT",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2159366/000215936626000001/",
   "via": "SEC Form D"
  },
  {
@@ -375,6 +445,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2166434/000216643426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Vandelay Wicker 1616 Llc",
+  "round": "Seed",
+  "amt": 1.88,
+  "date": "2026-11-06",
+  "inv": "",
+  "fnd": "--- Vandelay Partners, LLC, Jason Diamond",
+  "sec": "Commercial",
+  "hq": "Bannockburn, IL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166991/000216699126000001/",
   "via": "SEC Form D"
  },
  {
@@ -1918,6 +2002,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Strake, Inc.",
+  "round": "Seed",
+  "amt": 0.89,
+  "date": "2026-10-20",
+  "inv": "",
+  "fnd": "Jonathan Hegranes",
+  "sec": "Other Technology",
+  "hq": "Reno, NV",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166702/000149315226053885/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hirostar Usa, Inc.",
   "round": "Seed",
   "amt": 1.23,
@@ -2615,6 +2713,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2166185/000216618526000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Hot & Steamy Llc",
+  "round": "Seed",
+  "amt": 0.28,
+  "date": "2026-10-09",
+  "inv": "",
+  "fnd": "BRANDON JEW",
+  "sec": "Restaurants",
+  "hq": "Kentfield, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165338/000216533826000001/",
   "via": "SEC Form D"
  },
  {
@@ -4925,6 +5037,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2044152/000204415226000003/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Hillside Channing Alpha Tech Investors Llc",
+  "round": "Seed",
+  "amt": 4.96,
+  "date": "2026-08-13",
+  "inv": "",
+  "fnd": "David Kornbluth, Jaimey Roth",
+  "sec": "Commercial",
+  "hq": "Farmington Hills, MI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165934/000216593426000001/",
   "via": "SEC Form D"
  },
  {
