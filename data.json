@@ -14,6 +14,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Pacific Thermae Group Inc.",
+  "round": "Seed",
+  "amt": 2.65,
+  "date": "2026-11-22",
+  "inv": "",
+  "fnd": "James Kelley, Marcus Holmquist-Pollock",
+  "sec": "Other",
+  "hq": "Seattle, WA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2111756/000211175626000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Spi Briarcrest Equity, Llc",
   "round": "Seed",
   "amt": 1.0,
@@ -98,6 +112,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Lokahi Farms Collective Llc",
+  "round": "Seed",
+  "amt": 1.0,
+  "date": "2026-11-16",
+  "inv": "",
+  "fnd": "Jeffrey Sorensen",
+  "sec": "Agriculture",
+  "hq": "Kailua-Kona, HI",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166885/000216688526000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Hvc Woodstock Llc",
   "round": "Seed",
   "amt": 0.75,
@@ -154,6 +182,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Kilo Royalty Corp.",
+  "round": "Seed",
+  "amt": 0.4,
+  "date": "2026-11-13",
+  "inv": "",
+  "fnd": "Wade Brennan, Pieter Van Schaick, Robert Snyder, Josh Crumb,",
+  "sec": "Other",
+  "hq": "Charlotte, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2088772/000106299326006278/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Mtntough Inc.",
   "round": "Seed",
   "amt": 1.24,
@@ -193,6 +235,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2166927/000216692726000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Exponential Platform Inc.",
+  "round": "Seed",
+  "amt": 5.37,
+  "date": "2026-11-11",
+  "inv": "",
+  "fnd": "Daniel Schoenbrun, Adam Moisa",
+  "sec": "Other Technology",
+  "hq": "Bergenfield, NJ",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2167019/000216701926000001/",
   "via": "SEC Form D"
  },
  {
@@ -249,6 +305,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2166800/000216680026000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Fynancial, Inc.",
+  "round": "Seed",
+  "amt": 3.5,
+  "date": "2026-11-10",
+  "inv": "",
+  "fnd": "Thomas Fields, Patrick Parker, Piyush Pamecha, Michael Maisel, Tyler Krueger",
+  "sec": "Other Technology",
+  "hq": "Covington, KY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166989/000216698926000001/",
   "via": "SEC Form D"
  },
  {
@@ -767,6 +837,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2147865/000214786526000002/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Project Charlie Holdco, Llc",
+  "round": "Seed",
+  "amt": 6.2,
+  "date": "2026-11-03",
+  "inv": "",
+  "fnd": "Christopher Brodman, Joshua Whitney, Brian Dobis",
+  "sec": "Other Technology",
+  "hq": "Victor, NY",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166454/000216645426000001/",
   "via": "SEC Form D"
  },
  {
@@ -1299,6 +1383,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2156604/000215660426000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Agnitioai Technologies, Inc.",
+  "round": "Seed",
+  "amt": 0.35,
+  "date": "2026-10-28",
+  "inv": "",
+  "fnd": "Eric Shaffer",
+  "sec": "Other Technology",
+  "hq": "San Francisco, CA",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2167001/000216700126000001/",
   "via": "SEC Form D"
  },
  {
@@ -2265,6 +2363,20 @@
   "web": "",
   "li": "",
   "src": "https://www.sec.gov/Archives/edgar/data/2163631/000216363126000001/",
+  "via": "SEC Form D"
+ },
+ {
+  "name": "Celes Technologies, Inc.",
+  "round": "Seed",
+  "amt": 8.66,
+  "date": "2026-10-16",
+  "inv": "",
+  "fnd": "Luis Almanza Herazo, David Florian Gonzalez, Luis Ballestas Ayala",
+  "sec": "Other Technology",
+  "hq": "Miami, FL",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2165089/000149315226054159/",
   "via": "SEC Form D"
  },
  {
@@ -4890,7 +5002,7 @@
   "round": "Seed",
   "amt": 8.79,
   "date": "2026-09-01",
-  "inv": "",
+  "inv": "DCVC to Scale On-Farm Biogas-to-Jet-Fuel Production - Avi-Go",
   "fnd": "Stephen Beaton, Zachary Bogue, Fergus Noble",
   "sec": "Other Energy",
   "hq": "Redwood City, CA",
