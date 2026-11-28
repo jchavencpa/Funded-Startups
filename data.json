@@ -224,6 +224,20 @@
   "via": "SEC Form D"
  },
  {
+  "name": "Nc Sanford 87 Inv, Llc",
+  "round": "Seed",
+  "amt": 5.0,
+  "date": "2026-11-12",
+  "inv": "",
+  "fnd": "John Allen",
+  "sec": "Commercial",
+  "hq": "Raleigh, NC",
+  "web": "",
+  "li": "",
+  "src": "https://www.sec.gov/Archives/edgar/data/2166811/000216681126000001/",
+  "via": "SEC Form D"
+ },
+ {
   "name": "Bebemos Inc.",
   "round": "Seed",
   "amt": 0.25,
